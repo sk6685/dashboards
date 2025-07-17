@@ -1,0 +1,751 @@
+event_id,timestamp_utc,latitude,longitude,event_type,severity_score,status,reported_source,impacted_regions
+evt_37be0d5a,2025-06-03T06:44:39Z,24.40333226049546,175.99435177461265,Intelligence Leak,3.0,Ongoing Investigation,Local-Watch,
+evt_2611db1c,2025-05-16T06:29:13Z,-10.600853725618776,109.99446443652403,Natural Disaster,3.0,Resolved,Gov-Agency-A,"Oceania,Africa,Middle East"
+evt_33debc5b,2025-07-05T10:32:35Z,-17.487764432739425,159.99221703562193,Natural Disaster,8.0,Resolved,OSINT-Feed,
+evt_a0786252,2025-05-08T08:58:35Z,-26.680882743145027,64.22114458213628,natural disaster,2.0,Ongoing Investigation,Gov-Agency-A,"Middle East,North America"
+evt_0e909f04,2025-05-06T15:17:00Z,-54.965116768624426,52.9233544625869,CYBER ATTACK,9.0,Mitigated,Local-Watch,
+evt_686d99e9,2025-07-11T01:55:23Z,52.8663377346972,129.15493662464132,CYBER ATTACK,1.0,Mitigated,Gov-Agency-A,"North America,Europe"
+evt_e7ef7bf9,2025-03-04T15:14:37Z,-39.17918655650885,105.86613821661564,Infrastructure Incident,8.0,Mitigated,Private-Sensor-Net,"Global,South America"
+evt_6f1d2339,2025-05-09T02:01:36Z,32.2457755136884,135.18967341002224,Infrastructure Incident,9.0,Ongoing Investigation,OSINT-Feed,
+evt_a88abbc2,2025-03-30T05:33:51Z,49.783517100711116,30.997169282369573,Natural Disaster,4.0,Resolved,Private-Sensor-Net,
+evt_4d026cee,2025-06-25T14:20:48Z,24.92927124790525,146.84369959560843,Intelligence Leak,8.0,Active,OSINT-Feed,"South America,USA"
+evt_f1ae2719,2025-06-04T15:19:15Z,-71.07439806008222,40.751279732251874,infrastructure incident,1.0,Resolved,Local-Watch,"Asia,Oceania,USA"
+evt_d0308ebc,2025-02-08T16:12:10Z,63.25023172816796,-82.50717156029073,cyber attack,2.0,Resolved,Local-Watch,Middle East
+evt_2778f345,2025-07-10T16:46:50Z,49.56585902459349,29.81737373299934,Security Anomaly,9.0,Mitigated,OSINT-Feed,
+evt_ba8a55a5,2025-04-04T11:08:04Z,-74.633296671788,128.05433209479742,intelligence leak,1.0,Resolved,Gov-Agency-A,"Europe,South America"
+evt_42710f6a,2025-01-31T20:34:53Z,-43.26033669854142,122.53158586211487,Cyber Attack,,Ongoing Investigation,Gov-Agency-A,
+evt_67773f21,2025-04-27T09:36:17Z,-83.25438557714949,59.900402124977404,Humanitarian Crisis,6.0,Mitigated,OSINT-Feed,"USA,North America,Africa"
+evt_542ce9bf,2025-03-04T07:53:10Z,8.911174168711682,90.44063942359793,Security Anomaly,1.0,Active,Local-Watch,"Arctic,North America,Global"
+evt_0865520a,2025-03-24T07:20:16Z,53.927192802148426,-123.3737219809853,Cyber Attack,4.0,Mitigated,Private-Sensor-Net,"Oceania,Global,Africa"
+evt_72969d44,2025-04-09T23:49:36Z,83.26947498515128,-32.7947395642214,Intelligence Leak,6.0,Ongoing Investigation,Gov-Agency-A,Middle East
+evt_d9c620c8,2025-05-13T16:39:45Z,-34.36560065333072,-80.0342706861928,Security Anomaly,1.0,Mitigated,Gov-Agency-A,
+evt_13657c16,2025-05-16T13:40:14Z,48.397798431962386,31.8460986535334,Natural Disaster,9.0,Active,OSINT-Feed,USA
+evt_e55f3768,2025-07-14T03:14:51Z,87.53556570550191,96.27431863947271,Natural Disaster,2.0,Resolved,Gov-Agency-A,Africa
+evt_4cca4474,2025-01-18T13:21:58Z,46.95016162233082,29.428284701236183,Security Anomaly,7.0,Resolved,OSINT-Feed,"Europe,Asia"
+evt_111a6036,2025-01-15T10:14:30Z,11.446012327953582,-61.947792556490754,Humanitarian Crisis,,Mitigated,Gov-Agency-A,
+evt_22fa3f7e,2025-06-28T17:55:47Z,78.73771398147784,-119.82619457526516,natural disaster,3.0,Active,Local-Watch,Europe
+evt_e98b8b7f,2025-05-03T10:28:48Z,36.78232558047248,-124.67021205365299,Infrastructure Incident,1.0,Active,Local-Watch,
+evt_4593e95a,2025-03-05T21:41:28Z,37.88310648392872,-121.13511892825508,Cyber Attack,5.0,Active,Gov-Agency-A,Africa
+evt_b9ecf28b,2025-05-30T10:24:28Z,20.56686549524511,18.088756125961964,Natural Disaster,2.0,Active,Gov-Agency-A,"North America,Arctic,South America"
+evt_a965dc15,2025-04-07T08:21:25Z,-51.423908532362354,-167.60347119072696,Cyber Attack,1.0,Active,Local-Watch,
+evt_016546c9,2025-04-13T08:47:14Z,14.772530968767033,115.58899276782168,Humanitarian Crisis,1.0,Ongoing Investigation,Local-Watch,"South America,Europe"
+evt_a5fa98dd,2025-01-14T22:48:45Z,-30.497585761572296,-154.8020707051409,Security Anomaly,10.0,Mitigated,Private-Sensor-Net,Middle East
+evt_feed1c47,2025-06-27T02:43:36Z,-43.02513596592513,36.84857530721274,Intelligence Leak,3.0,Ongoing Investigation,Private-Sensor-Net,Europe
+evt_a4f537b1,2025-06-11T23:43:55Z,72.29409557271924,168.40749463379518,Infrastructure Incident,8.0,Resolved,Local-Watch,"USA,Global,South America"
+evt_fce080b8,2025-07-02T22:26:58Z,6.3971346961011335,-113.77960997922919,Humanitarian Crisis,4.0,Mitigated,OSINT-Feed,
+evt_8a04c974,2025-02-26T23:04:32Z,-57.44936453656573,-91.64994056696577,Intelligence Leak,1.0,Ongoing Investigation,Private-Sensor-Net,
+evt_e3bb940f,2025-05-12T19:38:05Z,-89.31862704012131,-6.481835846589121,Intelligence Leak,1.0,Mitigated,Local-Watch,"Middle East,South America"
+evt_d9930710,2025-07-05T17:44:32Z,38.01283458260272,-122.18893320924508,Security Anomaly,5.0,Mitigated,Local-Watch,"Arctic,Global"
+evt_8cc3c5f6,2025-03-08T13:32:21Z,12.13150837350679,79.56297424764205,Security Anomaly,4.0,Active,Gov-Agency-A,South America
+evt_f16e7af3,2025-04-26T10:39:01Z,39.27242703831031,-120.1398019596457,Natural Disaster,4.0,Active,Private-Sensor-Net,"South America,Arctic"
+evt_9573c494,2025-04-19T19:35:07Z,14.462885353392238,113.73959705174907,Intelligence Leak,1.0,Resolved,Private-Sensor-Net,USA
+evt_2b302395,2025-02-01T09:50:33Z,31.14254674592388,146.11194378602448,Cyber Attack,1.0,Resolved,Local-Watch,
+evt_a26d6eea,2025-02-12T18:26:43Z,66.56424176751398,-111.34094284557149,Infrastructure Incident,10.0,Resolved,Private-Sensor-Net,"South America,North America"
+evt_9956ac92,2025-02-04T09:29:03Z,36.87270827322595,-123.34253637468329,Cyber Attack,6.0,Ongoing Investigation,OSINT-Feed,"North America,Europe"
+evt_d207fca1,2025-06-27T21:35:40Z,84.90877297462603,174.09619147010676,Humanitarian Crisis,3.0,Active,Private-Sensor-Net,Middle East
+evt_21d1f68f,2025-02-20T03:21:46Z,26.996451165111694,31.168431643302682,Cyber Attack,1.0,Active,Local-Watch,
+evt_3ed0ba95,2025-02-27T17:19:58Z,-38.96489273426616,58.305435970791024,Humanitarian Crisis,9.0,Active,Private-Sensor-Net,
+evt_2a01088e,2025-06-06T19:25:38Z,58.73432972571487,-117.76866486050986,Cyber Attack,3.0,Mitigated,Private-Sensor-Net,"Global,Arctic,Oceania"
+evt_a6183e6a,2025-07-14T17:56:25Z,10.465773119917898,-147.9556965454359,Cyber Attack,6.0,Resolved,OSINT-Feed,"Global,South America"
+evt_35d8daea,2025-01-27T18:07:17Z,76.8925960955375,-144.46432971634005,Infrastructure Incident,8.0,Active,Gov-Agency-A,"Arctic,Global"
+evt_a77300dd,2025-06-25T16:56:51Z,17.096282924325678,19.936805389180563,intelligence leak,,Ongoing Investigation,Local-Watch,
+evt_ff3094fb,2025-06-05T08:10:31Z,-42.150750199634906,-85.81210468968003,Intelligence Leak,10.0,Active,Local-Watch,Global
+evt_6831c087,2025-01-13T16:53:06Z,45.08959971479169,-39.172691477929305,Humanitarian Crisis,1.0,Ongoing Investigation,Private-Sensor-Net,
+evt_b6563f11,2025-04-19T17:13:34Z,40.24895319493345,-5.712421571425608,Infrastructure Incident,7.0,Mitigated,Private-Sensor-Net,"Middle East,North America"
+evt_2dd5d101,2025-02-19T04:45:06Z,-72.79102488063165,-162.8193137429834,HUMANITARIAN CRISIS,3.0,Active,Gov-Agency-A,"Europe,Middle East"
+evt_b8c6f5a3,2025-03-13T19:31:31Z,14.730587906242349,-0.32988659658545316,Infrastructure Incident,6.0,Resolved,Gov-Agency-A,Asia
+evt_d83edfff,2025-06-10T15:27:55Z,47.65977522688858,32.22154865258613,Natural Disaster,6.0,Mitigated,OSINT-Feed,Arctic
+evt_c6e26af6,2025-07-07T23:18:20Z,31.046047355839363,42.668047199367976,Cyber Attack,10.0,Resolved,Gov-Agency-A,
+evt_1aaf0728,2025-01-03T23:52:12Z,-46.62429940187208,20.456238673162545,Infrastructure Incident,4.0,Resolved,OSINT-Feed,Oceania
+evt_f306fe9e,2025-01-26T06:21:55Z,-67.6249351340292,50.25943837488603,HUMANITARIAN CRISIS,6.0,Resolved,Gov-Agency-A,"Oceania,Arctic"
+evt_2ca9032a,2025-01-10T12:04:37Z,82.42990601034884,-0.6082450864732891,Intelligence Leak,5.0,Resolved,OSINT-Feed,"Oceania,Global"
+evt_251c827d,2025-06-20T18:02:20Z,61.071187024814776,58.80768056662194,infrastructure incident,1.0,Ongoing Investigation,Local-Watch,"Europe,North America"
+evt_c2ea151b,2025-04-21T13:17:24Z,56.88717667169158,-25.690216215820925,Security Anomaly,7.0,Active,OSINT-Feed,"Asia,Europe"
+evt_6188e852,2025-01-10T06:09:59Z,25.22354431226603,99.04293045696375,Infrastructure Incident,4.0,Mitigated,Private-Sensor-Net,"Africa,Oceania"
+evt_2c5f7dfd,2025-01-09T17:11:28Z,15.390238249360598,115.28292640097291,Infrastructure Incident,3.0,Active,OSINT-Feed,
+evt_38f72ce6,2025-02-22T14:07:30Z,-49.94894420261753,-115.31882591651421,Security Anomaly,8.0,Mitigated,Local-Watch,
+evt_de35a20a,2025-06-05T20:51:49Z,13.617614007076392,117.2626367106578,humanitarian crisis,5.0,Mitigated,Local-Watch,
+evt_9c241248,2025-03-31T20:37:38Z,37.86875905949219,-120.87491256560936,Security Anomaly,7.0,Active,Local-Watch,"Oceania,Asia"
+evt_0c3c10c8,2025-05-20T22:42:06Z,-52.89057735109964,-7.394380188336186,Infrastructure Incident,6.0,Active,OSINT-Feed,"South America,Africa"
+evt_6b6e5158,2025-06-28T09:25:01Z,-35.184461638095854,-83.78931661997844,Security Anomaly,10.0,Ongoing Investigation,Local-Watch,"Middle East,Asia"
+evt_1f8499d9,2025-01-17T23:48:58Z,-48.426582281470765,-113.30689865916813,humanitarian crisis,10.0,Active,OSINT-Feed,Africa
+evt_fb863e2e,2025-07-11T21:31:07Z,-39.51810812342191,3.935236199261908,Intelligence Leak,1.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Asia"
+evt_3f7d2350,2025-05-14T09:44:55Z,64.61497123729956,-177.34916713692735,Humanitarian Crisis,8.0,Ongoing Investigation,Gov-Agency-A,"Oceania,Asia"
+evt_19fb69de,2025-07-10T17:00:03Z,2.773422602351914,118.4275640143589,Natural Disaster,5.0,Mitigated,Private-Sensor-Net,Middle East
+evt_7b6a3510,2025-01-27T20:07:31Z,14.883237556491142,115.08865332583605,Humanitarian Crisis,1.0,Ongoing Investigation,Private-Sensor-Net,Oceania
+evt_da33b70c,2025-01-28T16:33:14Z,36.86533482367615,54.366420322081865,Cyber Attack,8.0,Ongoing Investigation,Gov-Agency-A,North America
+evt_07318afd,2025-03-08T11:04:56Z,-27.936459000155942,-79.0257699821365,Security Anomaly,5.0,Resolved,Private-Sensor-Net,
+evt_d795cfa9,2025-07-05T00:22:16Z,50.72972967057001,67.41562109897015,Cyber Attack,8.0,Ongoing Investigation,Local-Watch,
+evt_9c6d617e,2025-04-25T00:53:38Z,49.5975395528542,31.185306106357885,Intelligence Leak,6.0,Resolved,Gov-Agency-A,"Africa,Middle East"
+evt_4b6e5ea6,2025-05-28T21:02:31Z,16.426437830131267,112.66084346402191,Intelligence Leak,10.0,Ongoing Investigation,Local-Watch,"South America,Middle East,USA"
+evt_f8a10fb9,2025-07-10T05:19:13Z,62.36241747474162,77.81461375223665,Intelligence Leak,2.0,Active,Local-Watch,Africa
+evt_afbff00f,2025-03-17T02:40:14Z,22.986212884204335,106.64538978201921,Intelligence Leak,6.0,Resolved,Private-Sensor-Net,"Arctic,Africa"
+evt_c4cc4eef,2025-05-09T22:05:07Z,-60.14629880464903,-65.04090545483902,Humanitarian Crisis,2.0,Mitigated,Private-Sensor-Net,
+evt_496ccba1,2025-06-20T23:23:31Z,-38.49973777084673,107.8695190372759,Security Anomaly,9.0,Ongoing Investigation,Gov-Agency-A,"Europe,Asia"
+evt_95773ecd,2025-04-30T08:30:02Z,4.146958455625409,-68.00788320515733,INTELLIGENCE LEAK,3.0,Ongoing Investigation,Private-Sensor-Net,"USA,Global"
+evt_7fea94aa,2025-05-24T02:04:45Z,-74.97541647109388,-115.99258107144325,Infrastructure Incident,9.0,Active,Private-Sensor-Net,"Oceania,Africa,Asia"
+evt_9eecf592,2025-05-13T16:09:23Z,14.394851117455858,112.5290497427221,intelligence leak,6.0,Mitigated,Private-Sensor-Net,"Africa,Global"
+evt_9bea24b0,2025-05-10T02:59:47Z,-52.99114650929023,85.88132213811548,Humanitarian Crisis,9.0,Mitigated,Gov-Agency-A,
+evt_a683a3a1,2025-04-29T21:11:19Z,-8.120862744942173,-34.83827383381123,Infrastructure Incident,5.0,Active,OSINT-Feed,"Africa,Arctic,Asia"
+evt_e31a2166,2025-03-19T08:49:00Z,14.527249872460304,113.49049925755311,Infrastructure Incident,4.0,Resolved,Gov-Agency-A,"South America,Africa"
+evt_168fc932,2025-06-21T03:52:05Z,-60.81155498033179,-29.56016116360979,natural disaster,6.0,Mitigated,Local-Watch,"USA,South America"
+evt_0baa307b,2025-01-30T12:16:31Z,-51.98660475224221,-14.146875230170252,Infrastructure Incident,3.0,Resolved,Gov-Agency-A,
+evt_cde293dd,2025-05-12T01:01:57Z,48.10177198085964,-16.428419230159108,Infrastructure Incident,6.0,Active,Local-Watch,Middle East
+evt_2eb59726,2025-06-15T20:29:55Z,-53.054915464084566,81.36965889896851,Security Anomaly,4.0,Resolved,Gov-Agency-A,"USA,Arctic"
+evt_50e0487a,2025-04-08T12:35:41Z,68.72926652631233,124.95242540004335,Security Anomaly,2.0,Resolved,Gov-Agency-A,"Arctic,USA,Asia"
+evt_70b6a86c,2025-05-26T08:29:46Z,-5.313760756868831,77.3464737710056,Intelligence Leak,7.0,Resolved,OSINT-Feed,
+evt_c9bf19fe,2025-01-09T07:29:47Z,15.96887374009038,115.03202438205908,Cyber Attack,5.0,Resolved,Gov-Agency-A,"North America,Global,Middle East"
+evt_7d7f68b4,2025-06-01T23:15:50Z,30.859445887694292,-160.08656731350268,Infrastructure Incident,8.0,Ongoing Investigation,OSINT-Feed,"Africa,USA"
+evt_aa9f22ec,2025-01-01T21:06:04Z,-41.93389451724185,107.57612445293603,Security Anomaly,4.0,Mitigated,Gov-Agency-A,"Africa,Europe"
+evt_4296a575,2025-05-14T17:07:35Z,79.8971001687064,112.11873685844006,Security Anomaly,7.0,Ongoing Investigation,OSINT-Feed,"USA,Europe"
+evt_10a64baf,2025-01-20T18:56:19Z,49.67226993729014,30.313907072818544,Natural Disaster,8.0,Active,Gov-Agency-A,"South America,Africa"
+evt_a6d9f3a1,2025-01-11T06:10:40Z,-23.46245650272759,82.9800637238937,Cyber Attack,5.0,Resolved,Gov-Agency-A,
+evt_1c8f41fe,2025-03-01T10:43:24Z,48.825691172225845,28.733051005361325,cyber attack,7.0,Resolved,Local-Watch,"Africa,Arctic"
+evt_fcc42d36,2025-03-20T13:21:10Z,38.467217096543564,-122.38786485329327,Intelligence Leak,1.0,Mitigated,OSINT-Feed,
+evt_26389eb0,2025-02-13T03:46:21Z,62.27848501518852,-32.515727157510014,Natural Disaster,4.0,Ongoing Investigation,Private-Sensor-Net,"Arctic,South America"
+evt_0946f392,2025-05-19T17:46:05Z,-7.84938126696666,91.73187853306337,Security Anomaly,4.0,Mitigated,Gov-Agency-A,"Arctic,Africa,South America"
+evt_bdcc86fb,2025-05-20T15:04:47Z,47.78107789419988,28.90946182151009,natural disaster,4.0,Resolved,Local-Watch,
+evt_ca4d2ca9,2025-06-03T10:20:48Z,17.86058429886934,110.2761896424604,Cyber Attack,4.0,Ongoing Investigation,Local-Watch,North America
+evt_442196b2,2025-02-17T00:11:18Z,-39.66869969919069,143.30275789531362,Cyber Attack,4.0,Ongoing Investigation,Local-Watch,"South America,Middle East,Asia"
+evt_0879119e,2025-04-14T04:03:54Z,72.54739150211648,49.565218033316484,Security Anomaly,6.0,Resolved,Local-Watch,Africa
+evt_973480e0,2025-03-11T20:55:43Z,25.194691088301468,-127.24646746892505,Humanitarian Crisis,10.0,Active,Gov-Agency-A,
+evt_154219da,2025-07-09T09:56:36Z,15.422137537799054,113.4069095320308,intelligence leak,7.0,Active,Private-Sensor-Net,
+evt_d163624c,2025-05-10T11:28:35Z,-13.497638802672512,-98.38594421592023,Intelligence Leak,10.0,Mitigated,Gov-Agency-A,
+evt_006d7155,2025-06-11T07:12:52Z,-62.09146060880699,115.11825936576929,Intelligence Leak,10.0,Active,Private-Sensor-Net,"South America,Arctic"
+evt_4d7847b6,2025-01-13T16:47:46Z,-2.0949431352812837,124.12251088289048,Natural Disaster,4.0,Mitigated,OSINT-Feed,USA
+evt_ce003472,2025-06-05T19:16:39Z,45.37385525335168,-26.885367232093756,Humanitarian Crisis,7.0,Ongoing Investigation,OSINT-Feed,"Europe,Arctic"
+evt_ef0354c5,2025-03-17T11:58:47Z,47.5549271019139,32.024612243136126,security anomaly,9.0,Ongoing Investigation,Private-Sensor-Net,North America
+evt_0a985e7e,2025-05-12T12:43:51Z,16.291361224660953,115.15641090657702,Natural Disaster,3.0,Mitigated,Local-Watch,"Arctic,Africa"
+evt_0c11ab06,2025-06-28T23:51:49Z,55.74763453389676,30.956657385855237,Intelligence Leak,6.0,Mitigated,Gov-Agency-A,"South America,Arctic,Africa"
+evt_30f428fb,2025-05-07T08:49:06Z,49.579571779284805,33.45266538337637,Security Anomaly,10.0,Resolved,Gov-Agency-A,Oceania
+evt_69e16ac1,2025-05-18T01:00:36Z,68.37501018179773,-21.1839918041035,Intelligence Leak,4.0,Ongoing Investigation,OSINT-Feed,
+evt_4b7a2a5e,2025-03-18T07:29:47Z,-68.4155348838821,-118.97600962418923,intelligence leak,,Resolved,OSINT-Feed,"Oceania,North America"
+evt_5e5a6311,2025-03-17T12:10:12Z,-41.362833626630895,135.8479633768893,Natural Disaster,8.0,Mitigated,Gov-Agency-A,
+evt_894caa21,2025-07-01T05:25:24Z,-40.02338480411552,137.8508796540102,Infrastructure Incident,10.0,Active,OSINT-Feed,"Middle East,North America"
+evt_e2c60ef9,2025-02-27T04:34:52Z,47.88518530883666,32.49427205596125,CYBER ATTACK,4.0,Mitigated,Local-Watch,"South America,Global"
+evt_97145800,2025-06-24T15:31:04Z,-77.24168115030389,117.96493043782584,Humanitarian Crisis,3.0,Active,Private-Sensor-Net,"USA,South America"
+evt_857f932e,2025-07-14T04:31:11Z,38.2948669281403,-124.22943060772887,INFRASTRUCTURE INCIDENT,6.0,Mitigated,Private-Sensor-Net,South America
+evt_8d254c45,2025-01-11T12:10:39Z,37.91277132700865,-122.19822162722957,Intelligence Leak,1.0,Mitigated,Private-Sensor-Net,
+evt_f7231be2,2025-04-30T00:15:52Z,-72.12565289419724,157.42166319917487,Intelligence Leak,4.0,Resolved,OSINT-Feed,USA
+evt_6df2f925,2025-03-01T18:07:53Z,-85.18555391209341,-23.730610726833703,intelligence leak,1.0,Active,Local-Watch,"Africa,Middle East"
+evt_d78573c5,2025-01-28T23:03:45Z,14.371495464711902,116.74758470653617,Infrastructure Incident,5.0,Mitigated,OSINT-Feed,
+evt_8f366576,2025-04-08T20:56:15Z,23.67658887276326,104.74880477916997,Security Anomaly,9.0,Active,OSINT-Feed,"Africa,Middle East"
+evt_bddc6964,2025-06-19T01:46:52Z,-22.72796722139944,15.773525568402903,Humanitarian Crisis,1.0,Active,Private-Sensor-Net,
+evt_d516bbb2,2025-01-30T12:05:40Z,47.99100398668784,29.675708118032656,Infrastructure Incident,10.0,Ongoing Investigation,Local-Watch,Middle East
+evt_fe3778c6,2025-03-15T22:15:14Z,37.07933693325376,-122.73708844178266,security anomaly,3.0,Resolved,Private-Sensor-Net,"Asia,Oceania,Global"
+evt_af08c131,2025-03-20T18:58:23Z,38.253851462517076,-120.82121683144736,Infrastructure Incident,,Mitigated,Private-Sensor-Net,"South America,North America,USA"
+evt_2a5f4310,2025-01-07T14:18:56Z,-84.40047315812124,-80.83852489700095,Intelligence Leak,1.0,Active,Gov-Agency-A,Global
+evt_07ed6471,2025-04-01T00:49:44Z,48.31115759145626,29.361739901639368,Infrastructure Incident,4.0,Mitigated,Private-Sensor-Net,Arctic
+evt_0cc6df09,2025-01-27T05:00:28Z,48.79586716198337,32.66482657458448,Security Anomaly,8.0,Resolved,OSINT-Feed,"Global,Middle East,South America"
+evt_51fa18c9,2025-03-07T05:59:06Z,52.47041917150838,-120.56237418197342,cyber attack,2.0,Ongoing Investigation,OSINT-Feed,"USA,Europe"
+evt_31a9a5bf,2025-06-26T15:31:42Z,-14.246191471942765,-34.35792807812177,Security Anomaly,7.0,Ongoing Investigation,Local-Watch,"Africa,Middle East"
+evt_8bab4944,2025-03-25T17:28:42Z,-0.47044506394829,-86.29134110500024,Security Anomaly,3.0,Resolved,Private-Sensor-Net,"USA,Middle East,Asia"
+evt_30bbb1fd,2025-04-04T00:38:52Z,-63.377646547793674,-94.05243572662951,Humanitarian Crisis,3.0,Mitigated,OSINT-Feed,"USA,Africa"
+evt_55ef9000,2025-02-16T09:09:27Z,-84.79120100135526,-102.19201533486184,Intelligence Leak,5.0,Active,Private-Sensor-Net,
+evt_07bb20f3,2025-01-30T19:17:03Z,74.90165273770464,-72.65476752484355,Intelligence Leak,4.0,Active,OSINT-Feed,"Oceania,Europe,Arctic"
+evt_768c04c4,2025-05-13T17:41:20Z,39.96610649763696,-114.73626901545686,Cyber Attack,9.0,Ongoing Investigation,Gov-Agency-A,Africa
+evt_9edd86e2,2025-01-06T10:08:41Z,-30.312542794920468,99.03730992553028,intelligence leak,3.0,Ongoing Investigation,Gov-Agency-A,Europe
+evt_514343c9,2025-04-10T07:03:07Z,-999.0,26.439926948694676,Infrastructure Incident,2.0,Active,OSINT-Feed,"Arctic,Asia"
+evt_a8a57358,2025-05-02T13:01:10Z,-1.0063787731242542,-55.65190171719799,Infrastructure Incident,5.0,Mitigated,Gov-Agency-A,"Global,Africa"
+evt_a591cfc1,2025-05-27T21:36:54Z,88.89768146560161,-160.11492063314927,Security Anomaly,1.0,Mitigated,Local-Watch,Asia
+evt_8b20b290,2025-01-09T22:00:52Z,48.552930354380216,29.854053058691925,Cyber Attack,8.0,Mitigated,Private-Sensor-Net,
+evt_0a537b93,2025-04-20T08:52:05Z,-9.639707069522473,-63.33616137299266,Cyber Attack,1.0,Ongoing Investigation,OSINT-Feed,"USA,Africa"
+evt_5a463886,2025-01-20T15:16:16Z,-75.35221664785955,44.01658087302914,Intelligence Leak,10.0,Mitigated,Gov-Agency-A,
+evt_fba8eab7,2025-07-01T05:19:38Z,-49.79110902912282,169.6247966401022,humanitarian crisis,2.0,Resolved,Local-Watch,"Middle East,Africa"
+evt_d3c2fd3e,2025-04-27T21:03:47Z,47.76200216892877,31.64205722014497,humanitarian crisis,9.0,Mitigated,Private-Sensor-Net,North America
+evt_4f829f5a,2025-07-07T17:00:33Z,15.929612050088469,116.25382574941271,Cyber Attack,1.0,Mitigated,Gov-Agency-A,Arctic
+evt_c4905813,2025-04-08T01:10:10Z,-70.51575230413054,80.43626524704229,Humanitarian Crisis,10.0,Ongoing Investigation,Local-Watch,"USA,Africa,Middle East"
+evt_5964283f,2025-06-21T12:08:08Z,14.174860683514316,112.6751234736295,HUMANITARIAN CRISIS,7.0,Resolved,Private-Sensor-Net,
+evt_8a7a318c,2025-05-23T09:37:10Z,32.69137929618232,88.07865674162332,Natural Disaster,5.0,Resolved,Local-Watch,Oceania
+evt_573c014d,2025-05-12T06:49:10Z,27.75694349282331,-45.60751146172666,cyber attack,5.0,Ongoing Investigation,Local-Watch,
+evt_09c36eb8,2025-01-26T10:20:46Z,67.06017921263961,-89.00307799437854,Infrastructure Incident,9.0,Ongoing Investigation,OSINT-Feed,
+evt_cce3f215,2025-01-27T19:07:53Z,81.50526334695374,29.49679744638948,Natural Disaster,7.0,Active,OSINT-Feed,South America
+evt_ed527a19,2025-04-03T21:38:58Z,-25.39606374133882,-121.48524641049963,Natural Disaster,1.0,Ongoing Investigation,Gov-Agency-A,"North America,Middle East"
+evt_849fbc2b,2025-05-26T15:33:34Z,-32.390311451188005,149.51680462007397,Security Anomaly,4.0,Active,OSINT-Feed,"Europe,Asia"
+evt_e285288e,2025-06-09T10:02:45Z,48.41476917575363,30.490921451711156,Intelligence Leak,2.0,Resolved,Private-Sensor-Net,Europe
+evt_11bb4ad8,2025-03-02T03:15:08Z,47.35005647432006,29.550973784104634,Humanitarian Crisis,9.0,Ongoing Investigation,Local-Watch,"Middle East,Oceania,Asia"
+evt_5fb14752,2025-05-22T06:31:53Z,86.61396057762295,117.67863796870188,Infrastructure Incident,5.0,Mitigated,Gov-Agency-A,"Global,Oceania"
+evt_1157a71a,2025-03-31T17:29:43Z,3.704488276866371,66.76544328295037,Humanitarian Crisis,2.0,Active,OSINT-Feed,
+evt_2d832b69,2025-03-11T18:25:48Z,70.43664402159797,158.80655821308494,Humanitarian Crisis,7.0,Active,Gov-Agency-A,
+evt_eb2a666a,2025-01-19T12:02:15Z,-74.2301606064116,-46.22698540858508,Intelligence Leak,2.0,Active,Private-Sensor-Net,Europe
+evt_ec21c63c,2025-06-04T05:07:41Z,68.42491237074952,-179.56141484440835,Infrastructure Incident,8.0,Active,OSINT-Feed,Oceania
+evt_2cc8d3b4,2025-02-23T12:59:49Z,-13.04287619428581,17.143696384232044,Infrastructure Incident,7.0,Mitigated,Local-Watch,Oceania
+evt_fc9bea90,2025-05-16T10:05:25Z,-24.168574155518442,-93.83906445566717,Infrastructure Incident,3.0,Active,Private-Sensor-Net,Middle East
+evt_bf966d82,2025-02-02T04:48:15Z,76.08160180191845,124.7223316317453,Humanitarian Crisis,3.0,Active,Gov-Agency-A,"Global,Europe,Arctic"
+evt_88087d72,2025-04-26T14:28:23Z,37.71495277762666,-123.04917076512437,Natural Disaster,4.0,Mitigated,Private-Sensor-Net,North America
+evt_4d78a289,2025-03-10T10:41:47Z,-84.82503992419652,-73.26124576200483,Natural Disaster,3.0,Mitigated,Local-Watch,
+evt_dd77f20c,2025-06-17T16:56:37Z,88.48819466184756,122.69402110266424,Cyber Attack,5.0,Resolved,Private-Sensor-Net,"USA,Arctic,Africa"
+evt_5b439343,2025-05-13T05:20:42Z,8.849607534176343,142.6508018245778,Security Anomaly,7.0,Ongoing Investigation,Local-Watch,USA
+evt_cd533291,2025-05-31T07:37:24Z,-55.27396084775058,-60.615397322067906,infrastructure incident,8.0,Resolved,Private-Sensor-Net,"Global,Asia,Middle East"
+evt_dfb74b20,2025-02-17T15:25:10Z,32.93707124291906,-145.77122744339465,Natural Disaster,4.0,Mitigated,OSINT-Feed,USA
+evt_40026d29,2025-05-15T17:48:31Z,-76.54133459876292,-107.68082060773065,natural disaster,1.0,Ongoing Investigation,Private-Sensor-Net,"North America,Asia"
+evt_8ba4faf2,2025-07-14T14:35:16Z,-67.4579046248443,-6.751006571252134,Security Anomaly,3.0,Active,Local-Watch,Africa
+evt_dfded43b,2025-02-01T06:50:25Z,71.87149100665295,-124.05561702997056,security anomaly,9.0,Ongoing Investigation,Gov-Agency-A,"South America,Africa"
+evt_b7ac24f1,2025-03-11T00:39:50Z,37.76245226566684,-122.28957824399389,Infrastructure Incident,9.0,Resolved,Local-Watch,"Middle East,South America,Oceania"
+evt_6af55ba9,2025-01-09T01:01:19Z,37.11545991670247,-121.94122217824635,Humanitarian Crisis,1.0,Resolved,OSINT-Feed,"Arctic,South America"
+evt_a2f264d7,2025-05-13T05:41:06Z,-62.61830938656184,-7.796600170127164,Natural Disaster,8.0,Mitigated,Private-Sensor-Net,"Arctic,Asia,Middle East"
+evt_cd39f924,2025-06-04T10:54:55Z,-20.077037703316137,38.22090071794713,Humanitarian Crisis,2.0,Ongoing Investigation,Local-Watch,"South America,Arctic"
+evt_8c5f1e38,2025-02-13T11:20:29Z,15.46426131913728,116.54605378731422,Security Anomaly,1.0,Active,Gov-Agency-A,"Global,Europe"
+evt_3cdc9ee0,2025-01-27T00:35:55Z,36.95688145469574,-123.96639716288296,Security Anomaly,1.0,Ongoing Investigation,Gov-Agency-A,
+evt_479eb4e6,2025-01-26T05:28:30Z,-11.239131282832886,137.90164946805191,Natural Disaster,10.0,Active,Private-Sensor-Net,
+evt_d86e85af,2025-03-16T14:39:38Z,-87.48948936451374,-57.278379634575955,Security Anomaly,9.0,Resolved,OSINT-Feed,"Asia,Oceania,Global"
+evt_757d6c91,2025-01-04T00:18:24Z,37.769199784556626,-120.53485842480649,Intelligence Leak,9.0,Mitigated,Private-Sensor-Net,
+evt_0a44ca19,2025-04-10T22:13:50Z,-21.888141740058032,104.27259776341776,Intelligence Leak,5.0,Resolved,Private-Sensor-Net,"Global,Middle East"
+evt_94910e6a,2025-02-20T14:47:43Z,76.30949204879559,-31.218688500847094,Cyber Attack,5.0,Mitigated,Gov-Agency-A,
+evt_44e683c8,2025-01-19T08:28:52Z,20.862678016595325,140.1017793870601,Natural Disaster,8.0,Resolved,Private-Sensor-Net,North America
+evt_277c27dc,2025-02-04T18:52:09Z,-44.72697564719985,-117.33927270098795,Humanitarian Crisis,1.0,Resolved,Local-Watch,"Asia,Europe,USA"
+evt_fc978574,2025-05-27T03:49:06Z,-41.11273249959841,-42.81577316581408,Security Anomaly,10.0,Resolved,Local-Watch,"North America,Africa"
+evt_073af747,2025-04-14T06:05:31Z,-30.394172092084396,-140.16799073841915,infrastructure incident,5.0,Mitigated,Private-Sensor-Net,North America
+evt_51891786,2025-04-30T05:10:50Z,-15.088657319763357,133.20887226913203,Natural Disaster,7.0,Resolved,Private-Sensor-Net,South America
+evt_7f530402,2025-01-16T19:13:42Z,26.692580336834098,35.60252018359023,Humanitarian Crisis,4.0,Mitigated,Local-Watch,
+evt_59521ac8,2025-03-23T00:00:54Z,-53.228951060245,-60.28646323626285,Security Anomaly,6.0,Mitigated,Local-Watch,"USA,Oceania"
+evt_4ab943b3,2025-02-14T02:29:18Z,47.686021248511324,28.856396189583013,Humanitarian Crisis,6.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Oceania,Africa"
+evt_f4567cf0,2025-04-13T18:46:32Z,-71.53616545602466,45.9832685064832,Natural Disaster,2.0,Active,Local-Watch,"Middle East,Global"
+evt_5e6fef9e,2025-01-19T06:52:27Z,24.258833857649634,-81.58702273643193,Security Anomaly,8.0,Mitigated,OSINT-Feed,
+evt_b83c600a,2025-06-10T14:04:07Z,15.046980510367682,113.23780882946527,Infrastructure Incident,6.0,Resolved,Local-Watch,USA
+evt_25338e50,2025-07-05T07:46:23Z,-70.67857459295689,179.18894613216514,cyber attack,7.0,Active,OSINT-Feed,"South America,Europe"
+evt_a61d7ba0,2025-06-30T09:49:47Z,25.468095892667023,-146.7450625347027,infrastructure incident,9.0,Resolved,Gov-Agency-A,
+evt_fc606a87,2025-02-17T03:21:09Z,37.019925641708205,-123.42798583648555,SECURITY ANOMALY,,Ongoing Investigation,Private-Sensor-Net,Asia
+evt_e6a3beec,2025-04-23T01:51:12Z,46.62863527240677,121.6186303266752,Cyber Attack,10.0,Active,OSINT-Feed,"Oceania,Asia"
+evt_d16946fc,2025-01-16T02:20:17Z,38.074308585803664,68.67110914708758,Natural Disaster,5.0,Active,Gov-Agency-A,South America
+evt_3bd98743,2025-07-03T04:58:57Z,38.97973555387807,-122.99485905314538,NATURAL DISASTER,8.0,Ongoing Investigation,Gov-Agency-A,
+evt_37c3d77f,2025-01-31T10:55:18Z,36.75510457225647,72.77901360380696,Humanitarian Crisis,2.0,Resolved,Gov-Agency-A,USA
+evt_032abc4c,2025-01-22T19:47:10Z,-22.099802704186132,-171.33177682430338,Cyber Attack,1.0,Active,Private-Sensor-Net,
+evt_2ca7d19d,2025-04-11T22:27:22Z,37.2493137511974,-120.09792103845432,Intelligence Leak,7.0,Ongoing Investigation,OSINT-Feed,Africa
+evt_b39ad421,2025-05-18T07:20:20Z,47.98770171579371,32.186613830009314,Infrastructure Incident,8.0,Active,Gov-Agency-A,"Middle East,Europe"
+evt_3fab13ea,2025-03-03T02:00:36Z,42.7083505471677,-57.37924816178804,intelligence leak,10.0,Active,Private-Sensor-Net,"Oceania,Global,Asia"
+evt_2bb568c0,2025-05-19T21:27:25Z,5.428293171521531,70.83733845962209,humanitarian crisis,9.0,Mitigated,Local-Watch,
+evt_106a6156,2025-01-18T07:36:15Z,15.784184990290102,116.7449250722106,Cyber Attack,1.0,Resolved,OSINT-Feed,USA
+evt_9a049d78,2025-07-06T11:27:12Z,66.97318870789633,-16.403974486766998,Natural Disaster,1.0,Ongoing Investigation,OSINT-Feed,"Africa,Asia,North America"
+evt_2d61ab1d,2025-04-17T10:04:26Z,-51.32799972329561,177.49292588920264,Infrastructure Incident,9.0,Active,OSINT-Feed,
+evt_10b73517,2025-01-01T00:55:09Z,41.53825652373632,-14.854878505183507,intelligence leak,5.0,Resolved,Private-Sensor-Net,"Global,Oceania"
+evt_4e25469c,2025-02-06T15:40:57Z,48.96311124642857,33.3148963572373,natural disaster,4.0,Active,Local-Watch,"USA,South America,Oceania"
+evt_63ab1b45,2025-03-15T00:12:39Z,66.80569429648747,10.834877725083288,Intelligence Leak,8.0,Active,OSINT-Feed,"Middle East,Europe,Global"
+evt_e30fcaa8,2025-01-07T17:33:37Z,71.07557600334101,42.00335692760825,Security Anomaly,9.0,Mitigated,Private-Sensor-Net,
+evt_059dcb13,2025-01-13T10:59:41Z,64.16856587403026,81.09811731604441,Security Anomaly,4.0,Resolved,Local-Watch,"Europe,North America,Middle East"
+evt_5e6814e5,2025-02-13T07:41:57Z,-6.915834276131974,4.641337632717608,Cyber Attack,9.0,Mitigated,Local-Watch,"Middle East,Global,USA"
+evt_46c6aa5d,2025-02-24T17:00:12Z,-54.64667890966143,74.43509619962242,Cyber Attack,7.0,Resolved,Local-Watch,Asia
+evt_8352f511,2025-03-28T03:39:43Z,15.180335169277033,116.98660493107731,Humanitarian Crisis,6.0,Ongoing Investigation,OSINT-Feed,"Asia,Global,USA"
+evt_f15a2a52,2025-03-24T13:28:45Z,45.7834327739678,145.71967371554672,Cyber Attack,4.0,Ongoing Investigation,Gov-Agency-A,"USA,Oceania,North America"
+evt_ce5c771a,2025-02-19T21:27:50Z,16.01033424356395,112.97211276278472,humanitarian crisis,9.0,Active,Gov-Agency-A,
+evt_8803790b,2025-01-01T16:40:58Z,37.684886009112546,-120.42646986779741,SECURITY ANOMALY,8.0,Resolved,Local-Watch,"Africa,Europe"
+evt_17e4bf6c,2025-01-06T02:10:51Z,47.182701125448155,32.16039720550755,Cyber Attack,7.0,Ongoing Investigation,OSINT-Feed,
+evt_0e9c3408,2025-06-18T14:17:20Z,55.61350568754864,-39.92556554645796,Intelligence Leak,4.0,Active,Private-Sensor-Net,Oceania
+evt_27dafea7,2025-01-29T06:31:12Z,-10.192354739303411,-91.63668308765153,Security Anomaly,6.0,Mitigated,Local-Watch,Middle East
+evt_ee91695a,2025-03-01T15:17:03Z,28.05174438576276,-12.840555122898962,Cyber Attack,1.0,Active,Private-Sensor-Net,"Asia,Africa,Arctic"
+evt_a6564e45,2025-06-20T13:59:56Z,-56.544896602244634,137.44746360480553,Humanitarian Crisis,6.0,Active,Local-Watch,Asia
+evt_0d386196,2025-05-29T00:37:25Z,75.02776139639923,156.74879604827078,Infrastructure Incident,2.0,Active,OSINT-Feed,
+evt_3ec88355,2025-01-28T19:39:34Z,13.824956020576023,115.89432016537398,Intelligence Leak,2.0,Active,Gov-Agency-A,
+evt_470e833f,2025-06-07T08:32:54Z,-18.421364988807696,146.83676365463742,Cyber Attack,7.0,Active,Local-Watch,Global
+evt_3516c8d8,2025-06-15T13:29:29Z,18.52434213297414,129.16154771860198,Intelligence Leak,,Mitigated,Local-Watch,
+evt_d70946a1,2025-03-08T17:00:49Z,-69.40752609612642,26.61489145078633,Intelligence Leak,3.0,Resolved,Private-Sensor-Net,
+evt_7001e827,2025-02-16T18:53:53Z,38.41392078202438,118.21276074221532,Humanitarian Crisis,6.0,Ongoing Investigation,Gov-Agency-A,"Arctic,Asia,Oceania"
+evt_1260c6cd,2025-06-27T21:18:44Z,76.95800467506996,163.64800854309044,Cyber Attack,3.0,Ongoing Investigation,Gov-Agency-A,"Asia,Oceania"
+evt_b8dd6439,2025-05-21T06:09:02Z,78.00239740455316,51.618963687719884,Humanitarian Crisis,5.0,Resolved,OSINT-Feed,
+evt_0e13985c,2025-06-24T18:17:37Z,-61.25683973601649,3.0000519953966887,Security Anomaly,5.0,Ongoing Investigation,Private-Sensor-Net,"Asia,North America"
+evt_898a1b0c,2025-04-08T04:35:22Z,34.25208263972449,137.01717372077604,Humanitarian Crisis,8.0,Resolved,OSINT-Feed,
+evt_ef767473,2025-03-25T05:52:19Z,-75.67188446571036,25.297034356919056,intelligence leak,4.0,Ongoing Investigation,Gov-Agency-A,
+evt_7a0c42b5,2025-02-12T21:15:45Z,49.09177291667344,31.57801242303007,Cyber Attack,10.0,Active,Gov-Agency-A,Asia
+evt_1023c4ac,2025-01-14T01:59:09Z,-4.168335146398874,-141.53118447041493,Intelligence Leak,4.0,Mitigated,OSINT-Feed,Middle East
+evt_29d41555,2025-06-17T21:50:32Z,38.73417897483799,10.454818845045907,CYBER ATTACK,3.0,Resolved,Local-Watch,"North America,Oceania,Europe"
+evt_9828fc84,2025-02-13T12:02:53Z,71.75585042909952,65.66315958657901,Infrastructure Incident,8.0,Ongoing Investigation,Private-Sensor-Net,
+evt_6a6d569f,2025-07-07T02:18:07Z,14.78179950398772,114.80124196351574,Natural Disaster,6.0,Mitigated,Local-Watch,North America
+evt_d69aa16d,2025-05-31T03:05:00Z,-9.348372527986967,-19.074137709352897,Humanitarian Crisis,2.0,Active,Private-Sensor-Net,"Europe,South America"
+evt_69a087f9,2025-04-19T17:37:03Z,17.030026106691707,81.07426747511096,natural disaster,8.0,Active,Local-Watch,
+evt_235e282e,2025-04-29T20:31:02Z,15.003097287486767,110.36528017674345,Security Anomaly,1.0,Resolved,Gov-Agency-A,"Europe,Arctic"
+evt_68f3f993,2025-04-02T10:22:13Z,35.79829287535415,64.51925412404762,Humanitarian Crisis,10.0,Active,Gov-Agency-A,"Middle East,Europe,Asia"
+evt_78a1adc8,2025-04-10T06:07:52Z,32.616784703150785,99.9237253945625,Cyber Attack,8.0,Mitigated,OSINT-Feed,
+evt_a868dee9,2025-05-08T23:15:56Z,-83.95095437946725,172.22356257674494,Humanitarian Crisis,7.0,Active,OSINT-Feed,
+evt_9604af44,2025-02-20T08:36:51Z,-55.800351589900465,-97.09256212353786,Infrastructure Incident,3.0,Mitigated,Local-Watch,"Arctic,Europe,South America"
+evt_85ae8219,2025-06-04T12:52:29Z,72.76915068705875,97.47031909840092,Humanitarian Crisis,10.0,Ongoing Investigation,Local-Watch,
+evt_3ac291d1,2025-02-20T23:26:56Z,72.05379050145652,27.687436408051582,Natural Disaster,5.0,Mitigated,Gov-Agency-A,
+evt_387021a9,2025-06-23T15:05:28Z,85.20258803162326,96.45147033194803,Natural Disaster,8.0,Active,Private-Sensor-Net,"Europe,Global"
+evt_8359e6c4,2025-05-12T23:33:55Z,48.94749608973936,29.276646604204608,Intelligence Leak,3.0,Mitigated,OSINT-Feed,"North America,South America"
+evt_9fc647bb,2025-04-02T18:36:48Z,-6.700035294585788,90.82031760199885,Security Anomaly,6.0,Mitigated,Private-Sensor-Net,"South America,Europe,North America"
+evt_bc48a6cb,2025-02-04T01:50:46Z,15.06220920583769,-18.926858123931396,Natural Disaster,3.0,Resolved,Local-Watch,
+evt_cdc5c62e,2025-04-07T05:29:51Z,59.2391348431062,114.55492656903056,Humanitarian Crisis,8.0,Ongoing Investigation,Local-Watch,"Middle East,Arctic"
+evt_bd194415,2025-04-04T13:31:20Z,22.02040089427001,-142.14551458462077,Infrastructure Incident,10.0,Mitigated,Local-Watch,North America
+evt_3a65844a,2025-06-09T06:11:05Z,-999.0,-37.10290101650287,Natural Disaster,6.0,Mitigated,Gov-Agency-A,
+evt_6aaeebfe,2025-04-15T09:58:41Z,44.7873199717136,178.35865908645758,Cyber Attack,8.0,Active,Private-Sensor-Net,"Europe,South America"
+evt_bc624a48,2025-03-23T19:37:41Z,41.812946891872116,45.00860320499041,Humanitarian Crisis,1.0,Active,OSINT-Feed,"South America,North America"
+evt_346e3485,2025-01-23T04:57:00Z,-6.735404442550433,-142.84853978131565,Humanitarian Crisis,9.0,Mitigated,Gov-Agency-A,North America
+evt_22dca0a4,2025-04-05T22:07:24Z,-43.58352926306347,40.46452408033343,Natural Disaster,10.0,Ongoing Investigation,OSINT-Feed,
+evt_72c92203,2025-06-21T03:25:40Z,36.39955132226573,-120.16400501456225,Humanitarian Crisis,2.0,Mitigated,OSINT-Feed,South America
+evt_f2971fbb,2025-04-03T18:00:58Z,-48.245283551100776,7.489305825461656,Infrastructure Incident,9.0,Ongoing Investigation,Private-Sensor-Net,Europe
+evt_bebf6313,2025-05-16T18:06:52Z,37.04549874728661,-124.73268175638287,Cyber Attack,1.0,Mitigated,Local-Watch,
+evt_a740e932,2025-06-13T12:32:29Z,14.975126012461434,117.4258785387354,Intelligence Leak,10.0,Mitigated,OSINT-Feed,South America
+evt_ed912081,2025-01-09T14:54:28Z,-17.94953014844839,-21.856005986130583,HUMANITARIAN CRISIS,5.0,Ongoing Investigation,Gov-Agency-A,"Africa,North America"
+evt_7b4f434b,2025-05-18T19:53:03Z,38.95748093168294,-123.57008505553046,Security Anomaly,4.0,Active,Private-Sensor-Net,
+evt_b06dd679,2025-07-09T13:20:06Z,48.758800509202054,30.474392094662704,humanitarian crisis,4.0,Resolved,Private-Sensor-Net,
+evt_6844e163,2025-01-07T16:37:21Z,13.546808838634348,-170.77237497122357,Infrastructure Incident,,Mitigated,OSINT-Feed,"Europe,Africa"
+evt_61f80736,2025-07-04T09:47:56Z,49.58204580828809,33.142622934177375,Humanitarian Crisis,4.0,Active,Private-Sensor-Net,Africa
+evt_139f642b,2025-03-02T15:39:22Z,-3.8217752665776317,108.26196025407364,cyber attack,4.0,Mitigated,Private-Sensor-Net,
+evt_75a0dd4d,2025-06-27T12:18:56Z,-4.3960296797202005,-140.4021813009947,CYBER ATTACK,1.0,Resolved,Gov-Agency-A,"Arctic,Europe"
+evt_78d02efb,2025-03-26T06:42:41Z,-47.192304331567335,-176.26167370906327,INTELLIGENCE LEAK,3.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Global"
+evt_a9dbfcde,2025-03-25T15:23:36Z,67.43296010170855,-94.01627960134086,Security Anomaly,5.0,Ongoing Investigation,OSINT-Feed,
+evt_5b0df5f6,2025-07-12T07:01:00Z,-70.32544287031183,107.16206083334419,Infrastructure Incident,5.0,Active,Gov-Agency-A,South America
+evt_7a7cdd3b,2025-03-30T17:21:33Z,63.209220480485214,63.515500553757676,Humanitarian Crisis,2.0,Ongoing Investigation,OSINT-Feed,"Africa,Asia"
+evt_b6bb3fc2,2025-04-28T13:33:44Z,47.56952337772127,28.677064981153915,humanitarian crisis,3.0,Mitigated,Private-Sensor-Net,"South America,Global,Middle East"
+evt_f73b17a8,2025-03-02T01:56:24Z,42.17199375982847,-114.63476398640597,Humanitarian Crisis,10.0,Mitigated,Private-Sensor-Net,USA
+evt_0d949a1f,2025-01-15T12:05:38Z,48.231366871086315,31.56291099594538,Infrastructure Incident,4.0,Active,Private-Sensor-Net,Africa
+evt_5e7c9f68,2025-03-08T18:18:58Z,38.20638071763965,-123.6024283853534,Cyber Attack,5.0,Mitigated,OSINT-Feed,Arctic
+evt_5b2c1306,2025-01-27T06:53:12Z,68.64381450703982,96.5589934366534,intelligence leak,9.0,Ongoing Investigation,Local-Watch,"Middle East,North America,Oceania"
+evt_257af415,2025-04-17T23:11:30Z,45.02206834225663,84.1454148561532,Intelligence Leak,4.0,Active,Local-Watch,"Arctic,Europe"
+evt_96ba9224,2025-01-19T18:57:22Z,-55.455738421674056,-159.21867366907694,Cyber Attack,8.0,Ongoing Investigation,Gov-Agency-A,
+evt_985a9f0a,2025-02-19T22:36:05Z,16.119523214862085,106.89067253666599,Infrastructure Incident,9.0,Resolved,OSINT-Feed,Europe
+evt_06f0ef50,2025-02-21T07:58:05Z,21.787370635693847,167.0017325592243,Humanitarian Crisis,9.0,Resolved,Private-Sensor-Net,"South America,North America,Europe"
+evt_5d8aeb9e,2025-05-15T00:13:08Z,49.84315671939217,124.33897419931253,Infrastructure Incident,7.0,Active,Private-Sensor-Net,South America
+evt_18f70d59,2025-01-16T00:28:32Z,79.99869092225688,172.21298957704857,Humanitarian Crisis,9.0,Resolved,Local-Watch,"Middle East,Africa,Europe"
+evt_ae144d52,2025-03-04T22:20:32Z,-65.65030126735458,-137.37123036936293,Humanitarian Crisis,8.0,Resolved,Gov-Agency-A,"Oceania,Arctic,South America"
+evt_a6afd111,2025-01-20T05:06:15Z,72.8227225043531,-155.56512687308307,Infrastructure Incident,9.0,Resolved,Local-Watch,"Arctic,Africa"
+evt_dcca48d8,2025-02-12T21:15:07Z,63.23462818405699,106.50975446790153,Humanitarian Crisis,6.0,Active,Local-Watch,"Africa,USA,Europe"
+evt_513824cd,2025-04-13T22:35:26Z,-76.10910635248759,-64.00471157035295,Infrastructure Incident,4.0,Active,Private-Sensor-Net,USA
+evt_0989202a,2025-04-26T01:56:46Z,37.979391650403386,-120.3272616732549,INTELLIGENCE LEAK,1.0,Ongoing Investigation,Private-Sensor-Net,"Europe,Middle East"
+evt_014e5636,2025-01-31T23:47:23Z,61.07373049424402,-47.23549020096644,Security Anomaly,7.0,Active,Gov-Agency-A,"South America,Asia,Middle East"
+evt_42f0849b,2025-01-10T08:25:49Z,67.09483335030254,174.31210174372364,Natural Disaster,1.0,Resolved,OSINT-Feed,
+evt_d5109b79,2025-06-16T01:48:06Z,84.52924767842023,-54.13400956415023,Natural Disaster,5.0,Resolved,OSINT-Feed,"North America,USA"
+evt_5f72c616,2025-03-29T01:38:45Z,13.71620126114608,113.27441582864876,Cyber Attack,3.0,Mitigated,Local-Watch,"Arctic,Global"
+evt_fe670096,2025-02-28T18:51:24Z,14.90898448564994,117.17788618416202,Security Anomaly,5.0,Mitigated,Local-Watch,
+evt_5b5faab9,2025-03-01T15:09:05Z,48.29053382543262,31.604115946325734,Intelligence Leak,9.0,Resolved,OSINT-Feed,North America
+evt_ed9f8f9e,2025-06-03T01:36:04Z,13.825261781064027,113.80163740032,Security Anomaly,6.0,Resolved,Private-Sensor-Net,"South America,Africa"
+evt_5a36f7c3,2025-07-09T09:21:02Z,14.971152528911066,116.52938460871684,Humanitarian Crisis,3.0,Resolved,OSINT-Feed,"Global,Europe"
+evt_de244408,2025-05-21T06:48:59Z,18.346147966122842,154.47728193649368,Infrastructure Incident,10.0,Ongoing Investigation,Private-Sensor-Net,
+evt_0d086126,2025-02-15T06:31:13Z,51.357652607138846,54.894067859341845,Intelligence Leak,5.0,Mitigated,Gov-Agency-A,
+evt_96622777,2025-01-15T09:26:06Z,52.710562550015396,-76.59456396632439,Infrastructure Incident,10.0,Mitigated,Gov-Agency-A,
+evt_6b22ebf5,2025-01-03T02:30:25Z,85.12694369418048,91.82687121961004,Natural Disaster,10.0,Resolved,Gov-Agency-A,Europe
+evt_76a97901,2025-04-28T17:18:34Z,-21.02170097503057,-161.09924650506647,security anomaly,7.0,Mitigated,Local-Watch,"Global,USA"
+evt_3466c386,2025-05-13T15:08:16Z,27.158092503266502,60.89900858657845,Security Anomaly,6.0,Resolved,Local-Watch,
+evt_64d210a8,2025-02-25T09:57:40Z,38.17317728933209,-124.69724492416582,Security Anomaly,3.0,Resolved,Gov-Agency-A,North America
+evt_58ad4a4d,2025-06-25T07:45:32Z,47.484789657756636,96.61683924218414,Humanitarian Crisis,8.0,Active,OSINT-Feed,
+evt_95447bce,2025-01-06T14:11:22Z,-78.13079198136889,33.994246126319126,Infrastructure Incident,3.0,Ongoing Investigation,OSINT-Feed,"USA,North America"
+evt_082b6389,2025-01-27T00:48:00Z,-4.5525194785790575,174.8809671600594,Natural Disaster,9.0,Mitigated,OSINT-Feed,
+evt_9cefb2ee,2025-03-28T20:42:24Z,53.29197797024074,71.91506321134688,Intelligence Leak,4.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Europe"
+evt_1436c664,2025-06-12T18:50:36Z,-34.53268312907448,-146.1402858695929,Security Anomaly,6.0,Resolved,Gov-Agency-A,"Asia,Oceania"
+evt_521e514b,2025-06-26T15:05:57Z,-20.232827829708512,-44.30944555424614,Natural Disaster,10.0,Resolved,Gov-Agency-A,"Africa,North America"
+evt_24d1b82e,2025-01-08T02:27:31Z,-42.62238023390377,145.0072340772894,Cyber Attack,,Mitigated,Private-Sensor-Net,
+evt_9eecac5c,2025-01-31T07:33:25Z,16.242643011083434,115.76196556997168,Cyber Attack,9.0,Resolved,Gov-Agency-A,"North America,Europe"
+evt_73cb1d81,2025-01-16T18:59:13Z,8.96458497093272,128.3045605083945,Infrastructure Incident,1.0,Resolved,Private-Sensor-Net,
+evt_488ee1b3,2025-01-27T02:45:39Z,-27.715995224988554,-4.686367121757826,intelligence leak,7.0,Resolved,Local-Watch,Africa
+evt_3baf29d1,2025-05-17T02:24:21Z,-52.181544139385196,24.512217405445767,Humanitarian Crisis,3.0,Active,Gov-Agency-A,South America
+evt_fbf7315e,2025-06-03T22:06:10Z,13.747287482682845,112.98426011386908,Security Anomaly,1.0,Active,OSINT-Feed,USA
+evt_63acc41b,2025-04-01T12:59:39Z,34.91835497296752,-130.99409403615627,Intelligence Leak,4.0,Ongoing Investigation,Local-Watch,"Global,North America"
+evt_68aa53ba,2025-04-16T00:51:01Z,-49.689971606129035,-106.72032008757878,Cyber Attack,7.0,Resolved,Private-Sensor-Net,"Africa,Oceania"
+evt_36ede422,2025-03-07T19:45:14Z,-80.69044320281976,-96.92148036258114,Humanitarian Crisis,9.0,Active,Local-Watch,"Asia,Europe"
+evt_6538a81b,2025-02-17T11:02:55Z,50.61221071873075,50.85268820035526,Infrastructure Incident,3.0,Mitigated,Local-Watch,
+evt_8062acb7,2025-03-18T23:43:52Z,-61.11887869963887,-84.85573214113235,Humanitarian Crisis,4.0,Mitigated,Gov-Agency-A,
+evt_5c285d45,2025-06-17T12:18:57Z,-17.69117452486894,3.017527429542895,Infrastructure Incident,8.0,Active,Private-Sensor-Net,
+evt_697d8c74,2025-04-17T06:51:35Z,14.954191543439052,-96.92001789051513,Security Anomaly,1.0,Active,Gov-Agency-A,USA
+evt_179726a6,2025-02-25T18:13:45Z,68.36754944112818,10.232645917452771,Cyber Attack,8.0,Resolved,Private-Sensor-Net,
+evt_855365f3,2025-02-19T22:02:50Z,-50.44471999348195,-178.68551393445279,Humanitarian Crisis,3.0,Active,Gov-Agency-A,"Africa,North America"
+evt_09811385,2025-05-16T21:20:20Z,13.82315501307497,114.71458930898187,Cyber Attack,8.0,Ongoing Investigation,Local-Watch,
+evt_013fdd41,2025-04-11T18:00:11Z,-57.29369919076712,-79.63298845244807,Infrastructure Incident,1.0,Mitigated,OSINT-Feed,Middle East
+evt_59a717b7,2025-06-12T06:39:47Z,-60.525170205621805,-126.41569422229081,Security Anomaly,8.0,Mitigated,Private-Sensor-Net,"Oceania,North America,Global"
+evt_f70d6e88,2025-05-07T03:29:04Z,70.1656225913903,175.20147722794638,Intelligence Leak,5.0,Mitigated,Gov-Agency-A,Middle East
+evt_6842bec3,2025-05-29T10:18:28Z,14.923817082612937,114.74730066100437,Natural Disaster,6.0,Resolved,OSINT-Feed,"Africa,North America,Arctic"
+evt_7f550d1b,2025-06-08T15:08:23Z,-51.461933669971316,87.3645344223487,Security Anomaly,6.0,Ongoing Investigation,OSINT-Feed,
+evt_6e01f06e,2025-07-09T09:42:02Z,60.60536255681458,151.8670515651225,Natural Disaster,5.0,Resolved,OSINT-Feed,Oceania
+evt_130ec947,2025-02-09T11:14:31Z,50.18638756841773,-27.742791916667727,Intelligence Leak,8.0,Resolved,Local-Watch,
+evt_37120967,2025-02-11T23:20:40Z,70.70547204888695,64.4882453218816,natural disaster,1.0,Mitigated,Private-Sensor-Net,"Asia,North America,Middle East"
+evt_713acbf3,2025-01-02T13:02:02Z,15.930796029449356,113.32607694458767,Intelligence Leak,7.0,Mitigated,Local-Watch,USA
+evt_64600cfd,2025-07-07T21:10:41Z,48.32932562348668,31.791492423563867,Natural Disaster,2.0,Active,Gov-Agency-A,"North America,Oceania"
+evt_8fefd1e1,2025-04-21T09:36:00Z,7.939201992296319,53.57801743046832,Security Anomaly,3.0,Active,Local-Watch,
+evt_82d8c3b1,2025-01-14T22:34:56Z,9.664811513933117,77.11281845644658,Natural Disaster,6.0,Ongoing Investigation,Local-Watch,
+evt_b444398b,2025-04-23T12:53:33Z,-31.592339372186444,138.36922465851666,Infrastructure Incident,8.0,Ongoing Investigation,Gov-Agency-A,"Africa,Arctic"
+evt_f91c0a8e,2025-01-08T09:08:20Z,-10.622298933384528,-179.56926206031682,Humanitarian Crisis,3.0,Active,OSINT-Feed,"Oceania,Europe"
+evt_5d779318,2025-05-21T18:41:23Z,-78.31195178947188,96.02869860934686,Cyber Attack,6.0,Ongoing Investigation,OSINT-Feed,"Middle East,Asia"
+evt_64ef8a29,2025-01-05T07:21:02Z,14.768160224290686,112.57729448426998,Humanitarian Crisis,10.0,Mitigated,Local-Watch,USA
+evt_90f4b670,2025-02-02T09:00:27Z,38.64032451614763,-124.33536794061519,Security Anomaly,8.0,Active,OSINT-Feed,
+evt_09d215be,2025-07-01T01:25:48Z,-22.756407944244685,-60.661978351626715,Security Anomaly,6.0,Mitigated,Local-Watch,Oceania
+evt_7521222f,2025-04-02T12:30:19Z,14.606720050302872,116.47125030442189,infrastructure incident,5.0,Resolved,Private-Sensor-Net,
+evt_dc6fa0d1,2025-05-26T04:12:56Z,37.96376307305542,-124.43840322502409,INTELLIGENCE LEAK,5.0,Active,Local-Watch,South America
+evt_befb154c,2025-02-07T15:01:20Z,82.13007665647584,-88.77708420840044,SECURITY ANOMALY,9.0,Mitigated,Private-Sensor-Net,
+evt_e964dc83,2025-01-19T05:20:46Z,48.19295526980126,30.52435292975923,Humanitarian Crisis,2.0,Active,Gov-Agency-A,
+evt_bd42025d,2025-04-20T15:53:01Z,11.148849534409848,-50.178728276421026,Cyber Attack,1.0,Mitigated,Private-Sensor-Net,USA
+evt_8de7c9f5,2025-02-07T18:55:24Z,38.48051923851676,-52.14351463066656,Natural Disaster,7.0,Ongoing Investigation,Private-Sensor-Net,Arctic
+evt_54a28d68,2025-04-16T06:07:44Z,88.24217082338558,-118.41648077653797,Natural Disaster,5.0,Active,Gov-Agency-A,
+evt_02cdd80c,2025-07-03T05:41:11Z,-27.01141885177624,-105.91703416300399,Humanitarian Crisis,7.0,Active,Local-Watch,"Oceania,Global,Africa"
+evt_92d90b70,2025-03-19T09:37:00Z,30.800671782399533,172.6272589445394,Security Anomaly,7.0,Active,Gov-Agency-A,
+evt_9592b3bd,2025-04-11T14:12:45Z,39.6525682178212,-59.84834405592294,Infrastructure Incident,8.0,Active,Gov-Agency-A,"USA,South America"
+evt_ad33652d,2025-07-08T14:05:41Z,-52.07905081477035,-166.05871980562432,Humanitarian Crisis,6.0,Mitigated,Local-Watch,"North America,Africa"
+evt_90b81d1c,2025-05-26T03:57:39Z,-85.72223469780397,22.22710106396434,Humanitarian Crisis,5.0,Ongoing Investigation,Private-Sensor-Net,
+evt_0d8949ad,2025-01-02T09:21:40Z,-47.94745722909846,122.540858108456,Infrastructure Incident,4.0,Mitigated,Private-Sensor-Net,Asia
+evt_9ca7969e,2025-05-03T13:41:02Z,5.658930095066765,3.649030745047753,cyber attack,7.0,Resolved,Private-Sensor-Net,
+evt_6a70862e,2025-06-04T12:51:44Z,-30.420792763498078,31.36217771496723,Natural Disaster,1.0,Active,Private-Sensor-Net,Europe
+evt_3d2b14aa,2025-01-03T14:35:55Z,-36.320863369869244,140.13096431095835,Infrastructure Incident,4.0,Ongoing Investigation,OSINT-Feed,
+evt_e8989741,2025-03-04T12:52:04Z,14.319538277824236,113.06099818691416,CYBER ATTACK,5.0,Ongoing Investigation,Private-Sensor-Net,
+evt_2ce8ae5d,2025-05-26T19:43:27Z,47.01101719213376,33.41322036698401,Infrastructure Incident,5.0,Resolved,OSINT-Feed,"USA,Middle East"
+evt_2607ad58,2025-06-02T06:45:36Z,-68.00468293834736,84.79836431072079,Natural Disaster,3.0,Mitigated,Private-Sensor-Net,Middle East
+evt_c5907bae,2025-01-06T22:30:57Z,15.111220931710537,112.58949635495468,Security Anomaly,5.0,Ongoing Investigation,Gov-Agency-A,
+evt_f35ad069,2025-02-08T10:32:36Z,79.92410114784377,66.95299488914767,Natural Disaster,6.0,Mitigated,Private-Sensor-Net,
+evt_c702e8c2,2025-05-25T11:06:29Z,61.331599905646215,43.10582282337322,Humanitarian Crisis,3.0,Ongoing Investigation,Local-Watch,North America
+evt_c1c65041,2025-03-04T00:48:08Z,38.11655646307659,-123.43836566128864,Natural Disaster,7.0,Resolved,Local-Watch,
+evt_202e1127,2025-04-12T08:43:58Z,-69.56328943576058,-36.874032610060965,Intelligence Leak,4.0,Mitigated,Local-Watch,South America
+evt_dae6dbc7,2025-01-04T19:54:30Z,37.44154475301294,-124.83081299255828,Infrastructure Incident,10.0,Active,Private-Sensor-Net,"South America,Oceania"
+evt_0f60c3ae,2025-02-14T00:52:02Z,-27.52078952236046,27.606480506564907,security anomaly,10.0,Mitigated,Local-Watch,
+evt_fc694beb,2025-04-06T02:18:30Z,-60.24630519969254,124.08083008263941,humanitarian crisis,4.0,Mitigated,Local-Watch,
+evt_9a4bf5c8,2025-05-03T09:36:26Z,-18.4368826905544,167.49876992039066,Humanitarian Crisis,6.0,Resolved,Gov-Agency-A,Africa
+evt_38e9017d,2025-06-19T09:40:39Z,14.719588616297631,117.05548736431956,Intelligence Leak,3.0,Resolved,Local-Watch,"Middle East,Oceania"
+evt_8e2827c8,2025-01-19T06:02:00Z,999.0,-18.572621849976798,Infrastructure Incident,4.0,Active,Local-Watch,
+evt_a260b047,2025-05-09T02:07:17Z,-30.609186472018074,153.95467948016483,Natural Disaster,5.0,Active,Private-Sensor-Net,
+evt_3e0b6bc4,2025-01-13T11:38:56Z,-8.08764674868577,-7.4266979649654274,Natural Disaster,1.0,Ongoing Investigation,Private-Sensor-Net,
+evt_780435b7,2025-01-21T06:25:28Z,71.96874296373514,-104.81677744317254,Infrastructure Incident,3.0,Ongoing Investigation,Local-Watch,
+evt_cae2253f,2025-03-22T20:04:48Z,47.07773180539047,20.704045644403152,natural disaster,2.0,Resolved,Private-Sensor-Net,Asia
+evt_0960c0a9,2025-01-31T09:31:57Z,-29.874677193185754,74.59765584721595,Intelligence Leak,3.0,Mitigated,Gov-Agency-A,
+evt_50ea70df,2025-01-07T16:48:43Z,-5.050629083551897,124.02660381475471,Security Anomaly,10.0,Mitigated,OSINT-Feed,"Asia,Africa"
+evt_3e0ce30e,2025-04-17T18:12:02Z,-20.058281685575437,88.19453173497243,Humanitarian Crisis,5.0,Active,Private-Sensor-Net,Oceania
+evt_e3b64d54,2025-06-11T07:45:17Z,37.277207287331215,-122.65306791115206,Cyber Attack,5.0,Active,Private-Sensor-Net,Arctic
+evt_1ffd46a5,2025-02-13T01:19:26Z,-10.709535545367828,19.272147021967754,Cyber Attack,2.0,Active,OSINT-Feed,"Oceania,Middle East,Global"
+evt_80b0e3ec,2025-05-15T23:35:45Z,67.94737583704085,-85.63136655339515,Natural Disaster,3.0,Ongoing Investigation,Local-Watch,
+evt_324949d0,2025-01-06T22:19:13Z,72.2444728241415,43.00802704861613,Natural Disaster,3.0,Resolved,Private-Sensor-Net,
+evt_07cb3bc0,2025-06-24T12:54:33Z,36.83069517634047,-122.41570945383188,Natural Disaster,3.0,Active,Local-Watch,"Europe,Africa,Middle East"
+evt_cceb7f67,2025-03-18T21:54:28Z,-75.19429814935515,44.855138021520816,Infrastructure Incident,5.0,Active,Private-Sensor-Net,
+evt_7809df2e,2025-01-18T01:16:13Z,28.829991699211092,-96.19819666358642,Security Anomaly,8.0,Active,Local-Watch,USA
+evt_ef7f793f,2025-02-12T12:39:14Z,19.024140258510002,-29.765965310181173,natural disaster,3.0,Active,OSINT-Feed,"Global,North America,Europe"
+evt_24e816d8,2025-01-22T18:07:35Z,36.89281736083595,-113.19692047569315,CYBER ATTACK,2.0,Active,Gov-Agency-A,Global
+evt_fd71e989,2025-05-18T13:07:34Z,10.474755885581146,-22.274957895408278,Cyber Attack,3.0,Ongoing Investigation,Local-Watch,
+evt_b273d185,2025-05-09T08:53:12Z,-28.288488708519544,77.17074096952382,Natural Disaster,10.0,Resolved,Gov-Agency-A,"Oceania,South America,North America"
+evt_9de4c14f,2025-06-24T06:22:44Z,-71.93687277394875,3.2120311148669316,Cyber Attack,5.0,Mitigated,OSINT-Feed,"Middle East,South America"
+evt_afb9c0b5,2025-02-03T15:04:32Z,-28.627524443356634,-59.209166737945054,Intelligence Leak,2.0,Mitigated,OSINT-Feed,Middle East
+evt_86cfc0d5,2025-06-26T05:06:17Z,48.85724782332834,31.616950175393818,cyber attack,8.0,Ongoing Investigation,Gov-Agency-A,
+evt_1d379a94,2025-01-02T08:23:56Z,38.93415417087152,-120.26594676695463,NATURAL DISASTER,10.0,Active,Local-Watch,Asia
+evt_501648f5,2025-06-24T11:42:50Z,-59.305540465568214,178.93193949599686,CYBER ATTACK,5.0,Mitigated,Gov-Agency-A,"USA,Asia"
+evt_6dae806a,2025-02-05T03:46:22Z,-19.563171415683513,-118.1747906738739,Cyber Attack,4.0,Resolved,OSINT-Feed,"USA,Asia"
+evt_ab7675b9,2025-02-10T03:18:44Z,24.60245561871666,67.5776821536318,Cyber Attack,8.0,Active,Local-Watch,
+evt_6d13a550,2025-02-22T09:36:16Z,-18.139226490578025,-93.6537108997059,Intelligence Leak,6.0,Ongoing Investigation,Local-Watch,
+evt_245992af,2025-04-02T07:34:35Z,15.184805123089184,113.01025925062712,Natural Disaster,8.0,Resolved,OSINT-Feed,
+evt_3bc7a86c,2025-03-17T04:02:57Z,14.451086340187986,116.33951439968344,natural disaster,3.0,Ongoing Investigation,Gov-Agency-A,"Oceania,Asia,USA"
+evt_9c0cfc76,2025-01-25T00:28:55Z,80.50706070372073,-34.12350084261453,Humanitarian Crisis,7.0,Resolved,OSINT-Feed,Africa
+evt_75964922,2025-06-25T01:14:58Z,75.23870393026334,-151.1520147749022,Humanitarian Crisis,5.0,Resolved,OSINT-Feed,"Oceania,South America,Global"
+evt_842c6608,2025-03-03T08:05:48Z,-34.05330931413821,-52.3637856261861,Intelligence Leak,7.0,Mitigated,Local-Watch,North America
+evt_c2450de9,2025-04-19T20:21:43Z,37.06075052842488,-121.72808267848967,Intelligence Leak,8.0,Ongoing Investigation,Local-Watch,
+evt_3aa4a764,2025-06-05T05:45:40Z,38.41547704701273,121.91647856062781,Cyber Attack,6.0,Mitigated,OSINT-Feed,
+evt_6925aaa6,2025-07-03T07:08:14Z,46.53830142525314,-51.41121204146509,Natural Disaster,8.0,Resolved,OSINT-Feed,"Middle East,USA"
+evt_b6509b40,2025-03-20T01:17:45Z,48.72838838357608,30.855407408834964,Intelligence Leak,7.0,Ongoing Investigation,Local-Watch,"South America,Middle East,Arctic"
+evt_70330407,2025-07-13T06:41:34Z,13.874800546117834,114.57004604567767,INFRASTRUCTURE INCIDENT,3.0,Active,Private-Sensor-Net,"USA,Oceania"
+evt_1c1f6d49,2025-05-01T11:04:49Z,79.73415374829864,31.17866701883321,Intelligence Leak,2.0,Resolved,Private-Sensor-Net,USA
+evt_ca4073a9,2025-01-15T23:05:55Z,-37.11792085893876,-111.78300094871888,SECURITY ANOMALY,1.0,Active,Local-Watch,"Global,Arctic,North America"
+evt_b8d5c56b,2025-06-25T08:23:41Z,13.53731336292826,47.498520033045,cyber attack,2.0,Ongoing Investigation,Local-Watch,"Asia,Europe"
+evt_3baa6250,2025-01-16T21:54:25Z,-47.77382329929786,116.70281706386379,Infrastructure Incident,1.0,Ongoing Investigation,OSINT-Feed,"Global,Africa,South America"
+evt_d19aba33,2025-01-02T08:00:27Z,-67.969237042451,-138.29520491622242,Intelligence Leak,9.0,Resolved,Private-Sensor-Net,
+evt_6848318f,2025-03-18T12:55:44Z,41.09187210573339,39.23652932345232,Security Anomaly,4.0,Mitigated,OSINT-Feed,Asia
+evt_b324f775,2025-07-06T23:39:50Z,-33.68311064517986,5.642737240375823,Natural Disaster,6.0,Active,Private-Sensor-Net,"Oceania,Global"
+evt_089e9420,2025-06-04T19:15:01Z,999.0,-124.56813622600039,Intelligence Leak,4.0,Ongoing Investigation,Gov-Agency-A,"North America,Asia"
+evt_c6def18a,2025-01-18T01:35:10Z,47.46454669586047,32.785768529643434,Infrastructure Incident,3.0,Ongoing Investigation,OSINT-Feed,"Middle East,Oceania,Asia"
+evt_f4a4261d,2025-06-03T08:43:29Z,49.73426165708294,30.22327127460184,Natural Disaster,2.0,Active,Gov-Agency-A,"Asia,Africa"
+evt_489bb689,2025-06-16T03:38:29Z,16.358967483019924,116.08935106739894,Natural Disaster,1.0,Resolved,Gov-Agency-A,
+evt_70c5fcb7,2025-04-09T10:19:14Z,15.079858208870633,-111.07886946632365,Intelligence Leak,9.0,Resolved,Local-Watch,"Europe,North America"
+evt_b7235781,2025-06-18T20:23:57Z,-37.13590996847021,-157.66630448571732,Intelligence Leak,5.0,Active,Private-Sensor-Net,
+evt_04f3d7be,2025-07-05T02:35:12Z,45.82923233536869,-119.5431636767976,humanitarian crisis,1.0,Resolved,Gov-Agency-A,South America
+evt_c0a12943,2025-06-24T11:01:32Z,14.265569777273543,116.27417284012421,Security Anomaly,7.0,Resolved,Gov-Agency-A,Asia
+evt_28af693e,2025-05-18T03:01:18Z,38.39657813324643,-122.50297548354976,Cyber Attack,3.0,Mitigated,Gov-Agency-A,"Middle East,Oceania"
+evt_fdb05a61,2025-01-14T11:18:02Z,54.922653298821444,-42.60163896241161,Humanitarian Crisis,4.0,Ongoing Investigation,OSINT-Feed,Global
+evt_de7fca38,2025-05-30T04:56:50Z,-60.87052190269425,150.88660725872285,Intelligence Leak,3.0,Active,OSINT-Feed,"Arctic,Global,USA"
+evt_48a29b67,2025-04-30T15:52:18Z,44.54973685690405,-16.285777581892575,Intelligence Leak,3.0,Ongoing Investigation,Local-Watch,Global
+evt_89e7db8c,2025-04-17T13:56:25Z,36.05472623631793,49.65144787814475,Humanitarian Crisis,2.0,Resolved,OSINT-Feed,
+evt_7a0f38f2,2025-02-26T00:05:03Z,15.884786800296382,117.02814914835567,security anomaly,6.0,Active,Gov-Agency-A,
+evt_ab2d30c6,2025-05-07T03:41:40Z,36.85457469556134,-123.87574967737952,Natural Disaster,2.0,Active,OSINT-Feed,"Africa,Europe"
+evt_ff94fa49,2025-05-20T21:00:25Z,-2.0870694864424166,-106.97111007341441,intelligence leak,2.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Europe"
+evt_85a57085,2025-01-15T22:57:52Z,47.69991656104843,29.12642259999427,Natural Disaster,9.0,Ongoing Investigation,Local-Watch,
+evt_b2f812c8,2025-05-19T17:59:23Z,78.2796358447921,-154.98556446923433,infrastructure incident,1.0,Ongoing Investigation,Local-Watch,"Africa,Middle East,USA"
+evt_62030296,2025-04-21T06:23:16Z,-77.77859989603027,74.47089804692675,Humanitarian Crisis,8.0,Active,OSINT-Feed,Oceania
+evt_0c30a89b,2025-03-03T06:09:25Z,48.81343638346437,30.226688082003655,Natural Disaster,4.0,Ongoing Investigation,Local-Watch,Middle East
+evt_1e2b1d49,2025-01-27T18:40:00Z,85.51918725089004,92.81630467337203,Infrastructure Incident,9.0,Active,OSINT-Feed,Africa
+evt_db213942,2025-04-17T04:03:58Z,82.05428059402888,108.3442346934147,intelligence leak,7.0,Ongoing Investigation,Gov-Agency-A,"USA,Africa"
+evt_2f1ed4b2,2025-01-07T11:17:36Z,69.57110733194523,-136.69820027400144,Intelligence Leak,6.0,Resolved,Gov-Agency-A,"Oceania,Middle East,South America"
+evt_d865e819,2025-02-15T03:56:14Z,-64.39093576527756,133.54834116895938,Humanitarian Crisis,8.0,Ongoing Investigation,Local-Watch,"Africa,Europe"
+evt_4918ba01,2025-04-01T09:59:34Z,65.97606130814961,-88.36747219644148,Intelligence Leak,4.0,Resolved,Private-Sensor-Net,
+evt_5d1e7fdd,2025-02-02T06:49:19Z,-61.7031858477209,2.1018589031928627,Humanitarian Crisis,4.0,Mitigated,Private-Sensor-Net,"Arctic,Europe"
+evt_caa2a07c,2025-01-20T06:25:51Z,47.78016963636217,31.052027933205572,Intelligence Leak,9.0,Resolved,OSINT-Feed,
+evt_e6f268d1,2025-05-27T21:15:10Z,48.64589074472631,30.41640955907809,Humanitarian Crisis,8.0,Mitigated,Local-Watch,"Africa,Europe"
+evt_b6eb8d8c,2025-01-09T06:57:12Z,87.80701021952947,174.21312947734737,Humanitarian Crisis,4.0,Active,Gov-Agency-A,"Middle East,Europe,Oceania"
+evt_1246cbdf,2025-04-17T18:27:09Z,-78.95178885996368,17.67138051585593,Humanitarian Crisis,7.0,Ongoing Investigation,Private-Sensor-Net,
+evt_95a5cbbf,2025-04-03T12:48:05Z,37.687666966165935,-147.8109504801736,Humanitarian Crisis,9.0,Resolved,Private-Sensor-Net,USA
+evt_008b0b69,2025-07-03T21:22:38Z,33.77416894709283,-45.50983568454134,Humanitarian Crisis,2.0,Ongoing Investigation,Gov-Agency-A,
+evt_f5881a67,2025-03-04T09:59:29Z,72.47159501948695,-79.56121794283682,Infrastructure Incident,9.0,Ongoing Investigation,OSINT-Feed,
+evt_7894211b,2025-01-02T20:34:07Z,-54.762071154334386,122.90920622163571,natural disaster,3.0,Mitigated,Local-Watch,"Global,Arctic,Middle East"
+evt_7ac8350b,2025-06-21T14:59:20Z,-0.7926864722696791,156.802888869049,Natural Disaster,8.0,Resolved,OSINT-Feed,
+evt_6ff44514,2025-06-29T08:50:42Z,23.124648230632516,81.82187031992078,cyber attack,3.0,Active,OSINT-Feed,
+evt_b898ea5c,2025-06-14T07:22:54Z,15.796524673719155,112.90254149746171,Cyber Attack,9.0,Mitigated,OSINT-Feed,"Europe,Oceania"
+evt_9c23b494,2025-02-06T01:13:13Z,-32.59311156407461,16.21088096961273,Infrastructure Incident,1.0,Ongoing Investigation,Gov-Agency-A,
+evt_c8b36edc,2025-03-18T01:13:50Z,49.451216576156206,33.414590944379874,Cyber Attack,4.0,Mitigated,Gov-Agency-A,Africa
+evt_0a95fd0d,2025-07-05T08:37:09Z,15.1121392003889,113.93271949215604,Infrastructure Incident,5.0,Ongoing Investigation,Local-Watch,
+evt_646ce282,2025-03-13T00:28:31Z,49.287102592121244,31.60423334953175,Cyber Attack,5.0,Ongoing Investigation,Private-Sensor-Net,Asia
+evt_780b9e72,2025-07-10T01:50:28Z,-37.469003800406796,-79.23361739826451,Natural Disaster,8.0,Mitigated,Gov-Agency-A,
+evt_0e83d0f9,2025-04-22T15:28:00Z,-65.31843855097421,128.130026897061,CYBER ATTACK,6.0,Resolved,Local-Watch,"Middle East,North America"
+evt_d26ecc6d,2025-04-13T04:19:25Z,-39.92283783917456,54.05727828694722,Natural Disaster,1.0,Mitigated,Private-Sensor-Net,"Global,North America,South America"
+evt_c0be44f5,2025-06-18T21:47:47Z,-60.0863577585733,7.581824651272825,Humanitarian Crisis,8.0,Active,Local-Watch,Oceania
+evt_f04cbe34,2025-04-28T03:12:20Z,12.36758184698381,140.673032780107,Intelligence Leak,3.0,Ongoing Investigation,OSINT-Feed,"Oceania,Europe"
+evt_bb407535,2025-06-08T22:35:50Z,-46.16077236816725,120.9715401404012,Infrastructure Incident,1.0,Active,Local-Watch,
+evt_4605ce0c,2025-07-12T20:00:18Z,-5.467922223546239,-117.20786245384241,Humanitarian Crisis,,Mitigated,Private-Sensor-Net,
+evt_e3935c3d,2025-04-01T03:46:23Z,16.756994142075598,-110.51252414832966,Natural Disaster,10.0,Resolved,Gov-Agency-A,USA
+evt_85a69c08,2025-05-13T07:26:29Z,-15.158743439305283,0.1649292191811469,Intelligence Leak,8.0,Mitigated,Gov-Agency-A,"Asia,Europe"
+evt_526c51c2,2025-06-27T23:02:17Z,2.16738539114489,111.78739229188756,Infrastructure Incident,5.0,Ongoing Investigation,OSINT-Feed,
+evt_181b7f13,2025-02-28T19:54:54Z,14.841067559085914,148.90493660199684,Intelligence Leak,4.0,Active,Local-Watch,"South America,Oceania"
+evt_56fa6293,2025-05-09T14:45:24Z,-35.735101619333385,-89.38265627307452,Intelligence Leak,7.0,Mitigated,Gov-Agency-A,"Europe,USA"
+evt_975853ec,2025-05-11T01:29:14Z,58.297380948672526,77.35427320961827,infrastructure incident,3.0,Ongoing Investigation,OSINT-Feed,South America
+evt_b6010899,2025-01-21T02:24:53Z,83.29566572616824,-102.31211463644014,Natural Disaster,2.0,Mitigated,OSINT-Feed,"North America,Global"
+evt_1c7a0609,2025-06-27T02:10:14Z,39.87541816027081,-156.6720031161933,Humanitarian Crisis,2.0,Active,Local-Watch,Asia
+evt_1068ee2c,2025-07-04T01:30:55Z,-8.579064354146041,-162.11099151241396,Intelligence Leak,3.0,Ongoing Investigation,Local-Watch,
+evt_3832690b,2025-03-10T04:05:15Z,82.52146981762431,-154.74667184520712,Humanitarian Crisis,10.0,Active,Local-Watch,
+evt_a2c953bc,2025-05-23T03:09:01Z,-68.7069230193319,79.86869960449792,security anomaly,10.0,Resolved,Private-Sensor-Net,"Middle East,Africa"
+evt_5c2c2ba5,2025-03-07T17:04:23Z,-12.079343021055394,-27.9891373058675,HUMANITARIAN CRISIS,9.0,Resolved,Private-Sensor-Net,
+evt_a319a858,2025-04-20T20:00:02Z,54.37818510288889,-80.4844391651222,Cyber Attack,6.0,Resolved,OSINT-Feed,
+evt_1add80ab,2025-05-05T18:34:36Z,-32.74242630398918,-68.90076224425026,Security Anomaly,,Mitigated,Gov-Agency-A,"USA,Asia"
+evt_a5060f23,2025-04-20T06:34:21Z,-63.12363725191432,-37.11435912335759,Intelligence Leak,5.0,Mitigated,Local-Watch,USA
+evt_81428dee,2025-04-11T18:31:55Z,-44.53144254125465,61.03543960468642,Humanitarian Crisis,1.0,Mitigated,Private-Sensor-Net,Arctic
+evt_9adf154a,2025-06-14T11:56:50Z,77.98436198427777,-90.22910245287208,Intelligence Leak,9.0,Mitigated,Gov-Agency-A,
+evt_90b181dd,2025-01-14T15:08:02Z,30.206572556409185,-24.713608416607883,Intelligence Leak,5.0,Active,Local-Watch,"South America,Middle East,Europe"
+evt_4de11839,2025-02-18T06:58:47Z,36.45534154286344,-122.22944016688517,Security Anomaly,7.0,Ongoing Investigation,Local-Watch,Global
+evt_69dc80e4,2025-06-29T09:21:23Z,-66.07624298135183,68.43314886647264,Natural Disaster,4.0,Mitigated,OSINT-Feed,"USA,Middle East"
+evt_2200ff4a,2025-01-15T18:02:16Z,33.194328966978034,126.08307299318574,infrastructure incident,,Resolved,OSINT-Feed,"Middle East,North America"
+evt_f98792d9,2025-02-23T10:23:58Z,70.34795241565641,-118.54423641420036,humanitarian crisis,3.0,Mitigated,Private-Sensor-Net,"South America,Global"
+evt_7e0bcdf7,2025-02-27T23:26:56Z,-26.32634860198165,-109.09854185684222,Security Anomaly,1.0,Ongoing Investigation,Local-Watch,"USA,South America"
+evt_bb8cce37,2025-06-24T01:26:10Z,-51.84646469496743,17.687321606522175,Intelligence Leak,7.0,Ongoing Investigation,OSINT-Feed,Global
+evt_36747807,2025-01-21T10:53:55Z,-30.989424491664977,-50.4299710920732,Intelligence Leak,10.0,Resolved,Private-Sensor-Net,"South America,Global"
+evt_3c157f05,2025-03-05T13:10:29Z,30.76795236150248,-138.47699498686382,Natural Disaster,9.0,Active,Local-Watch,
+evt_b21ba344,2025-06-28T01:43:50Z,-66.41880545617138,-53.34434186553115,Humanitarian Crisis,8.0,Ongoing Investigation,Gov-Agency-A,"Oceania,South America"
+evt_425b678e,2025-02-11T04:11:05Z,-45.525146719817656,-15.176409232562605,Security Anomaly,6.0,Active,Private-Sensor-Net,
+evt_0312dbfd,2025-04-03T05:38:08Z,-50.097872113711446,-19.096148326174216,Infrastructure Incident,10.0,Resolved,Gov-Agency-A,
+evt_47cf2e31,2025-03-24T09:02:10Z,35.62295072783547,-136.28722653821575,Security Anomaly,9.0,Active,OSINT-Feed,"Europe,Oceania,Asia"
+evt_84f78b11,2025-05-09T09:12:26Z,13.308822875914387,-179.45351145125113,Cyber Attack,5.0,Ongoing Investigation,Gov-Agency-A,"South America,Arctic"
+evt_585d18cd,2025-06-14T00:54:01Z,48.158742594337525,80.61236362914673,Security Anomaly,7.0,Ongoing Investigation,OSINT-Feed,"Global,USA,South America"
+evt_4d63ed2c,2025-05-17T06:57:24Z,18.06142530519793,-62.85078022388093,Infrastructure Incident,6.0,Resolved,Gov-Agency-A,
+evt_bdc23bfc,2025-05-02T05:02:19Z,63.843431815659756,155.15929258579826,Cyber Attack,10.0,Mitigated,Local-Watch,"North America,Oceania,Africa"
+evt_cb8a2f25,2025-06-09T13:23:56Z,14.026704687612051,112.63007540430202,Intelligence Leak,9.0,Resolved,Private-Sensor-Net,"Asia,North America,Europe"
+evt_0d4e7421,2025-05-18T08:03:14Z,15.562332669185244,116.39763365401394,Cyber Attack,3.0,Active,Local-Watch,South America
+evt_8cb74f16,2025-07-11T19:50:50Z,13.114238981063465,-20.353538868826234,humanitarian crisis,6.0,Active,OSINT-Feed,Middle East
+evt_811846bf,2025-07-09T02:58:58Z,-50.36092481314465,-30.38420944714713,cyber attack,2.0,Resolved,Gov-Agency-A,"Oceania,Asia"
+evt_9f948f55,2025-04-04T19:12:35Z,38.69681045684336,-123.22566331656267,Intelligence Leak,3.0,Ongoing Investigation,OSINT-Feed,
+evt_929dc55c,2025-02-14T07:38:16Z,-30.280001916911978,64.47648600586555,Cyber Attack,7.0,Mitigated,Gov-Agency-A,"Europe,USA"
+evt_a7569a69,2025-07-12T08:39:53Z,14.374889480655389,112.84140348547274,Infrastructure Incident,1.0,Active,Private-Sensor-Net,"Africa,South America"
+evt_407c5ade,2025-07-11T04:19:09Z,16.180753626467432,114.81043877373524,Natural Disaster,1.0,Resolved,Local-Watch,"Europe,Global"
+evt_e9513442,2025-01-06T08:20:51Z,41.85907921293506,-161.0143037452335,Humanitarian Crisis,1.0,Resolved,Local-Watch,Arctic
+evt_764e219a,2025-03-15T21:22:45Z,-70.01253480985211,179.75970951242118,Intelligence Leak,9.0,Mitigated,Private-Sensor-Net,"Europe,South America,Africa"
+evt_2512d8fc,2025-06-16T06:49:41Z,37.41957827037066,-124.65063806180221,Cyber Attack,4.0,Resolved,Local-Watch,"Africa,North America"
+evt_899455ae,2025-06-21T19:27:07Z,14.98732414595979,87.98116642905472,Natural Disaster,6.0,Resolved,Private-Sensor-Net,"Oceania,Asia"
+evt_ad58fffe,2025-05-15T20:30:14Z,-14.806488855216017,19.985685679851258,Cyber Attack,6.0,Resolved,Local-Watch,
+evt_7d2aebdd,2025-02-24T08:50:11Z,-6.248580094099481,51.3435828225054,HUMANITARIAN CRISIS,4.0,Ongoing Investigation,OSINT-Feed,North America
+evt_17f21f41,2025-05-18T19:30:41Z,54.523861933342204,-6.308147196386074,Cyber Attack,10.0,Mitigated,Private-Sensor-Net,"USA,North America"
+evt_88b4e296,2025-05-28T19:05:20Z,41.872160244266496,19.228625364030478,Intelligence Leak,1.0,Active,OSINT-Feed,"North America,Oceania"
+evt_7ea63ba6,2025-02-02T11:06:52Z,-33.269897030475605,-156.30057164971424,Natural Disaster,8.0,Mitigated,Local-Watch,
+evt_a0066a69,2025-01-14T03:44:59Z,86.46300156586824,-3.8216416644605715,Security Anomaly,5.0,Ongoing Investigation,Local-Watch,North America
+evt_24d76361,2025-01-01T18:14:36Z,999.0,-41.31412372040393,Infrastructure Incident,5.0,Resolved,OSINT-Feed,
+evt_75f63731,2025-02-10T20:06:35Z,-21.565677567274278,-171.62343633844728,Natural Disaster,,Mitigated,OSINT-Feed,Oceania
+evt_dfadfc71,2025-07-08T00:37:05Z,13.198902981351168,-145.46324285060646,Natural Disaster,3.0,Active,Gov-Agency-A,"Global,South America,Oceania"
+evt_887aaebc,2025-05-10T21:59:30Z,-55.45315225578541,81.77089938179324,Cyber Attack,9.0,Active,Local-Watch,Arctic
+evt_f618b371,2025-01-17T20:44:34Z,10.284906704453206,-144.4244644693601,Intelligence Leak,3.0,Ongoing Investigation,Gov-Agency-A,"Arctic,South America"
+evt_e372a60f,2025-05-06T13:45:59Z,49.830758881564904,32.347569735623175,Humanitarian Crisis,4.0,Ongoing Investigation,Private-Sensor-Net,North America
+evt_33a1a025,2025-03-04T10:37:22Z,86.85541037015625,-160.3613138645132,Intelligence Leak,4.0,Active,Gov-Agency-A,
+evt_a0cb9a75,2025-05-01T01:24:07Z,37.77897323889187,-124.70260852500304,Intelligence Leak,6.0,Resolved,OSINT-Feed,
+evt_3f02602c,2025-05-05T05:48:51Z,25.602534627087678,160.4822999810903,Natural Disaster,7.0,Ongoing Investigation,OSINT-Feed,Arctic
+evt_ff7e90f6,2025-04-12T14:13:49Z,59.22388721295073,127.03693782515819,Security Anomaly,2.0,Resolved,Local-Watch,"Asia,Africa,Europe"
+evt_8e59b59d,2025-01-23T04:34:31Z,64.34957349742413,-68.00234104221624,Infrastructure Incident,2.0,Active,OSINT-Feed,
+evt_c8a88a93,2025-02-17T09:48:05Z,33.169205842756895,27.867472510540694,Security Anomaly,2.0,Mitigated,Local-Watch,"Oceania,Africa,North America"
+evt_8ce2f007,2025-04-13T15:31:52Z,34.381059628611624,-107.99823905730635,Security Anomaly,3.0,Resolved,Private-Sensor-Net,"Europe,South America,Middle East"
+evt_fb5139b6,2025-05-30T19:27:00Z,14.233120442787966,116.24401173611855,Security Anomaly,7.0,Ongoing Investigation,Gov-Agency-A,"USA,North America,South America"
+evt_ac2173dd,2025-04-04T06:27:56Z,-87.2965851797456,-58.90113775286393,Natural Disaster,3.0,Mitigated,OSINT-Feed,"Oceania,South America"
+evt_bc19d1ee,2025-01-14T18:22:09Z,-12.067613335911759,-65.89985139464405,Intelligence Leak,9.0,Ongoing Investigation,Gov-Agency-A,"Africa,South America,Middle East"
+evt_04ae8eac,2025-04-05T06:24:25Z,-70.22683151730033,158.53232019656497,Humanitarian Crisis,9.0,Mitigated,Local-Watch,"Global,Asia"
+evt_b825eaeb,2025-02-27T00:26:04Z,59.63912421067721,174.7689092226483,Humanitarian Crisis,8.0,Mitigated,Gov-Agency-A,"USA,Arctic"
+evt_4ec793f6,2025-01-01T02:42:26Z,-3.5509841415996277,52.6806883865994,Infrastructure Incident,1.0,Mitigated,Local-Watch,Asia
+evt_42893a95,2025-01-08T09:51:57Z,-5.551775479514191,108.72307344124755,Infrastructure Incident,9.0,Mitigated,Gov-Agency-A,
+evt_74abe204,2025-05-31T21:53:04Z,-57.69234306100452,174.99188840351712,Intelligence Leak,7.0,Active,Local-Watch,"Oceania,USA"
+evt_9958e072,2025-07-06T15:33:37Z,43.28415382631442,-20.361133586534407,Intelligence Leak,5.0,Ongoing Investigation,Private-Sensor-Net,Asia
+evt_abcf41a3,2025-04-06T17:12:16Z,-22.009545661474164,-142.8163553592653,Cyber Attack,7.0,Ongoing Investigation,OSINT-Feed,
+evt_694bb7a2,2025-02-14T04:28:00Z,84.18806311116236,165.4620128236649,INTELLIGENCE LEAK,4.0,Active,Private-Sensor-Net,"Middle East,Arctic,Oceania"
+evt_c9000df9,2025-07-08T16:19:51Z,49.4032513105102,-64.23214631932079,Infrastructure Incident,9.0,Resolved,OSINT-Feed,Asia
+evt_5b1b91e4,2025-01-17T03:23:13Z,2.375270317904736,33.41936427128388,Security Anomaly,2.0,Resolved,Private-Sensor-Net,"Arctic,South America"
+evt_a0feb16e,2025-01-07T03:36:15Z,-58.8998649570359,-9.588377436486638,Security Anomaly,1.0,Ongoing Investigation,OSINT-Feed,
+evt_66f8562d,2025-02-18T20:22:03Z,38.634551511612855,-123.81087705174568,Cyber Attack,8.0,Ongoing Investigation,OSINT-Feed,
+evt_3711760c,2025-05-16T06:20:45Z,37.47131013318104,-121.82206996891759,Intelligence Leak,2.0,Ongoing Investigation,Local-Watch,"USA,Africa,Asia"
+evt_5ce51401,2025-01-22T02:39:06Z,46.82901344202753,-42.79268012244373,Cyber Attack,7.0,Ongoing Investigation,Private-Sensor-Net,
+evt_3bb73bbe,2025-05-08T10:43:45Z,-34.46760935595965,79.80477912196619,Intelligence Leak,8.0,Mitigated,OSINT-Feed,"North America,Arctic"
+evt_e0786fa2,2025-07-09T02:11:04Z,36.036471507101524,-136.676389429123,Intelligence Leak,4.0,Ongoing Investigation,Local-Watch,"Africa,Europe"
+evt_99da007c,2025-06-20T00:16:38Z,13.84347412557878,77.14750100031239,Natural Disaster,1.0,Mitigated,Private-Sensor-Net,South America
+evt_23e1b05f,2025-05-14T22:59:09Z,47.33790491811374,31.337813308188093,HUMANITARIAN CRISIS,10.0,Resolved,Gov-Agency-A,Global
+evt_1e98a973,2025-04-14T00:46:29Z,57.056759061225904,-48.54936817712391,Humanitarian Crisis,7.0,Resolved,Gov-Agency-A,"Asia,USA"
+evt_6054f44b,2025-02-22T17:01:57Z,-54.97972931750246,-91.48077364367482,Cyber Attack,5.0,Ongoing Investigation,Local-Watch,"Europe,Oceania"
+evt_4556d56c,2025-06-03T10:31:36Z,53.15244366938677,-68.48349928119016,Intelligence Leak,4.0,Active,Local-Watch,Asia
+evt_6cc5537e,2025-02-09T13:25:26Z,-47.18995083984951,121.61746636846084,Intelligence Leak,4.0,Ongoing Investigation,Local-Watch,"Asia,Middle East,South America"
+evt_a96cf589,2025-03-25T11:23:36Z,7.205104613536818,106.09191020497389,Cyber Attack,3.0,Resolved,Private-Sensor-Net,
+evt_14fa9568,2025-06-19T09:16:10Z,-38.72076889092887,3.8727112855649466,infrastructure incident,3.0,Ongoing Investigation,Local-Watch,
+evt_777a7615,2025-05-28T15:57:47Z,84.0374161915168,76.28561368377632,security anomaly,6.0,Active,OSINT-Feed,
+evt_6e2e3885,2025-01-05T09:10:33Z,39.257628322066225,-124.86092936375317,Infrastructure Incident,7.0,Ongoing Investigation,Private-Sensor-Net,USA
+evt_2926ffef,2025-04-11T22:18:01Z,57.542403742333505,163.00905116713983,Security Anomaly,10.0,Mitigated,Local-Watch,Europe
+evt_b32c554b,2025-02-23T15:59:38Z,74.2803780387824,-111.75665444090735,Cyber Attack,5.0,Resolved,OSINT-Feed,"North America,Oceania"
+evt_31b9d575,2025-06-09T14:51:02Z,-78.05602196353432,-7.343427180845566,HUMANITARIAN CRISIS,3.0,Mitigated,Private-Sensor-Net,Middle East
+evt_6fa20aff,2025-03-05T04:59:39Z,38.262590148092855,-123.04217756285293,Infrastructure Incident,3.0,Resolved,Gov-Agency-A,"Arctic,USA,Asia"
+evt_aa3635d8,2025-01-25T05:30:10Z,21.2024180337815,-178.09922812662,Natural Disaster,5.0,Ongoing Investigation,Local-Watch,"Europe,Middle East"
+evt_14c44f35,2025-06-27T09:42:48Z,-54.84314498373086,16.28834236367871,Humanitarian Crisis,7.0,Resolved,Local-Watch,"Middle East,Arctic,Europe"
+evt_e9bf0fea,2025-05-12T18:53:10Z,-6.372510093856434,134.81158851316326,Humanitarian Crisis,3.0,Mitigated,Private-Sensor-Net,
+evt_9e5501a1,2025-06-03T07:55:25Z,30.559119056283535,36.64665208907229,Cyber Attack,9.0,Mitigated,Private-Sensor-Net,"North America,Africa"
+evt_318682fd,2025-06-12T13:50:07Z,85.92228419019645,107.16063166562589,Intelligence Leak,1.0,Ongoing Investigation,Gov-Agency-A,
+evt_a172105e,2025-02-10T05:31:39Z,26.670914179475005,97.5908212097342,Intelligence Leak,9.0,Ongoing Investigation,OSINT-Feed,"North America,Asia"
+evt_1377907a,2025-01-30T07:19:13Z,56.20568247515189,-124.0436729379875,Security Anomaly,9.0,Resolved,Private-Sensor-Net,North America
+evt_6cc5aa87,2025-03-16T20:55:18Z,-73.58940134636846,-95.51728189204644,cyber attack,8.0,Active,OSINT-Feed,"Oceania,North America,South America"
+evt_db4d8e7c,2025-04-16T14:27:26Z,-17.90313755682257,49.8234884313014,Security Anomaly,9.0,Ongoing Investigation,Gov-Agency-A,South America
+evt_828709d1,2025-05-22T01:09:12Z,-70.61132221663955,157.6333556792784,Security Anomaly,7.0,Ongoing Investigation,Gov-Agency-A,Africa
+evt_3b6182b6,2025-04-10T05:16:19Z,2.5537933614587445,153.6245146683931,infrastructure incident,1.0,Ongoing Investigation,Private-Sensor-Net,
+evt_1ef6b927,2025-01-11T05:36:37Z,-7.628313925482956,52.555037906104275,Infrastructure Incident,10.0,Active,Gov-Agency-A,"Asia,Middle East"
+evt_bc333cd5,2025-01-27T18:59:36Z,43.943952374005676,-56.73872162894632,Cyber Attack,10.0,Resolved,Private-Sensor-Net,North America
+evt_922f91ed,2025-03-21T13:39:45Z,-64.27305908933968,-25.277039019226663,Intelligence Leak,5.0,Mitigated,Local-Watch,"Oceania,USA"
+evt_55f1d0e1,2025-01-07T16:29:35Z,-50.885828060777634,71.47155474604781,Natural Disaster,8.0,Resolved,Local-Watch,"Arctic,Oceania,Asia"
+evt_521efcdc,2025-03-15T02:49:33Z,-28.68129261053585,-150.65167286038906,Cyber Attack,3.0,Mitigated,Local-Watch,"Oceania,Middle East,USA"
+evt_bd117c9d,2025-01-24T22:02:20Z,-2.133973104997281,169.01406535291517,Humanitarian Crisis,9.0,Active,Local-Watch,"USA,Middle East"
+evt_9c1e7128,2025-05-13T05:33:15Z,36.469185131626,-123.82993784647117,Natural Disaster,8.0,Active,Local-Watch,"Africa,North America,USA"
+evt_4bdeac91,2025-04-12T15:25:39Z,-49.38685992591179,151.5379398864826,natural disaster,2.0,Resolved,Gov-Agency-A,Europe
+evt_4fe20ae6,2025-02-08T09:40:55Z,14.647690844846476,115.07888692656525,Intelligence Leak,6.0,Mitigated,Local-Watch,
+evt_30669a3d,2025-03-29T15:59:48Z,-37.82461412417071,26.139021340104193,Cyber Attack,10.0,Ongoing Investigation,OSINT-Feed,Europe
+evt_5baae433,2025-02-20T18:47:11Z,-82.39572660499594,117.41879704045255,Humanitarian Crisis,4.0,Mitigated,Local-Watch,
+evt_edc73f52,2025-05-27T16:23:37Z,73.27451349695184,119.57792534563441,Infrastructure Incident,5.0,Mitigated,Private-Sensor-Net,"Asia,Middle East"
+evt_56f57f45,2025-05-14T13:37:27Z,-82.37088670848607,-61.68635678953383,Security Anomaly,10.0,Ongoing Investigation,Private-Sensor-Net,
+evt_aff51ab9,2025-05-09T20:52:52Z,15.937487123618297,-175.5301238188156,Infrastructure Incident,8.0,Ongoing Investigation,OSINT-Feed,Asia
+evt_cb32ac8f,2025-04-24T01:14:29Z,-19.324581304070122,3.1310293760406864,Infrastructure Incident,6.0,Active,Private-Sensor-Net,
+evt_e3d72ed8,2025-05-23T08:10:37Z,49.64675565206536,29.776998315980865,Intelligence Leak,4.0,Mitigated,OSINT-Feed,Arctic
+evt_83ca9530,2025-06-22T05:49:31Z,72.04655823497973,-178.8131782500338,Cyber Attack,2.0,Ongoing Investigation,Local-Watch,
+evt_55f4c67b,2025-05-13T14:20:39Z,42.56097365134994,64.91488810969187,Natural Disaster,8.0,Resolved,OSINT-Feed,North America
+evt_580db8a7,2025-01-14T00:08:59Z,-60.207675766456234,-113.62759660152321,Infrastructure Incident,8.0,Mitigated,Local-Watch,"Asia,Africa"
+evt_62df9025,2025-03-18T22:24:57Z,15.23461858136867,114.7420851533368,Natural Disaster,9.0,Mitigated,Gov-Agency-A,"North America,Asia,Africa"
+evt_5cdfdc24,2025-02-21T17:10:13Z,-26.669612509208527,-25.010163935867894,Infrastructure Incident,7.0,Ongoing Investigation,Gov-Agency-A,North America
+evt_20ce833b,2025-05-02T21:46:07Z,48.97147059586376,31.1297656133846,Infrastructure Incident,1.0,Ongoing Investigation,OSINT-Feed,
+evt_ca77405d,2025-04-06T23:22:32Z,87.28670356342317,-92.12049745609893,Intelligence Leak,1.0,Ongoing Investigation,Local-Watch,"South America,North America"
+evt_cae1d47f,2025-05-15T06:31:18Z,84.69389151921769,88.67596167912569,Security Anomaly,9.0,Ongoing Investigation,Private-Sensor-Net,North America
+evt_d168e584,2025-07-09T14:41:01Z,86.70260802635988,46.70320880990573,Intelligence Leak,6.0,Active,Local-Watch,"Europe,Asia"
+evt_9680750f,2025-07-13T13:06:39Z,-5.754857855657221,-76.01016481094457,Infrastructure Incident,6.0,Mitigated,Gov-Agency-A,"North America,Europe,Oceania"
+evt_b9bcd75e,2025-07-05T13:34:08Z,57.301060045508876,-49.91142650566667,Intelligence Leak,6.0,Mitigated,OSINT-Feed,
+evt_06709d46,2025-05-09T07:11:18Z,39.61830479093561,999.0,Infrastructure Incident,9.0,Resolved,Private-Sensor-Net,
+evt_5e7be677,2025-01-22T18:18:48Z,-67.70314487471984,-175.46632948905818,Humanitarian Crisis,2.0,Active,Private-Sensor-Net,"Global,North America"
+evt_f415b6ac,2025-05-18T05:00:28Z,-23.692458730811452,-46.434215951320624,Infrastructure Incident,6.0,Resolved,Local-Watch,
+evt_dd4cd8a2,2025-01-14T06:02:13Z,-76.96937814110541,119.07636146392537,Intelligence Leak,4.0,Resolved,Gov-Agency-A,
+evt_fa971f2f,2025-03-21T18:31:23Z,38.94180375575782,-123.32434976650585,Infrastructure Incident,2.0,Resolved,Private-Sensor-Net,
+evt_c67cc5e4,2025-06-05T06:02:04Z,62.72909173506565,-17.581090818305995,INFRASTRUCTURE INCIDENT,3.0,Active,Gov-Agency-A,Europe
+evt_6a900e5a,2025-02-22T12:07:59Z,78.14700234595531,84.78537153881854,Humanitarian Crisis,8.0,Resolved,Private-Sensor-Net,"USA,Europe"
+evt_0dba77e1,2025-07-15T01:09:06Z,-41.96065156598146,-60.88601322520604,Security Anomaly,9.0,Active,Gov-Agency-A,
+evt_5eb1a82f,2025-01-31T11:54:05Z,-66.44046273193796,-61.93299721468979,Infrastructure Incident,2.0,Active,Gov-Agency-A,Oceania
+evt_83a5a568,2025-04-21T13:58:46Z,81.83749582525911,65.39062570438247,Infrastructure Incident,8.0,Resolved,Local-Watch,"North America,Oceania,Europe"
+evt_36497b7e,2025-05-09T21:01:02Z,-2.51678967573811,-67.8040670183467,infrastructure incident,6.0,Ongoing Investigation,Local-Watch,Asia
+evt_aba18b74,2025-03-30T19:29:14Z,77.69621624147618,78.15249812748112,Infrastructure Incident,2.0,Ongoing Investigation,Local-Watch,USA
+evt_9d7f8970,2025-07-13T15:22:42Z,-39.90369434249426,124.60081414242251,Natural Disaster,6.0,Mitigated,Gov-Agency-A,"USA,South America,Arctic"
+evt_f8eadc32,2025-06-20T02:33:50Z,32.73611463366427,-129.55723916851954,Humanitarian Crisis,,Ongoing Investigation,Local-Watch,North America
+evt_d22a25f8,2025-02-07T15:58:43Z,38.33271847808905,-122.62317579146566,cyber attack,5.0,Active,Local-Watch,
+evt_dd9acaba,2025-02-21T11:43:17Z,77.76515309267359,133.1920322818387,HUMANITARIAN CRISIS,8.0,Ongoing Investigation,OSINT-Feed,"Europe,USA"
+evt_e6b6ea90,2025-04-30T05:04:40Z,34.744674389423125,-104.01296486736611,Intelligence Leak,9.0,Ongoing Investigation,Gov-Agency-A,
+evt_c4cd5af7,2025-02-09T16:24:21Z,-75.24939857414041,-125.41416519516717,Humanitarian Crisis,9.0,Mitigated,Local-Watch,"USA,Asia,North America"
+evt_62f08257,2025-05-09T14:26:42Z,14.085491495249485,115.4095898385378,Intelligence Leak,9.0,Mitigated,Gov-Agency-A,
+evt_d4d838b5,2025-01-19T19:47:42Z,-34.45798808199542,13.843974302997367,Humanitarian Crisis,5.0,Resolved,Gov-Agency-A,
+evt_91ea5204,2025-06-28T22:23:27Z,-3.293400149909459,-113.27694662056518,Infrastructure Incident,1.0,Resolved,Local-Watch,South America
+evt_81c09027,2025-03-29T06:49:26Z,-65.20868383696747,173.62996813512586,Humanitarian Crisis,9.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Arctic"
+evt_4e227277,2025-06-20T00:45:26Z,86.34517894974874,-999.0,cyber attack,2.0,Active,OSINT-Feed,"Arctic,South America"
+evt_d5d863d9,2025-01-18T05:25:53Z,-57.572489884559246,172.5309362918506,Humanitarian Crisis,5.0,Mitigated,Local-Watch,
+evt_c8200cee,2025-07-08T17:46:04Z,-35.094819454925826,-52.70010309302316,Humanitarian Crisis,1.0,Ongoing Investigation,Private-Sensor-Net,"USA,North America"
+evt_edd1e9ec,2025-05-24T04:48:59Z,-9.464708181613858,-131.56583825170213,Security Anomaly,2.0,Ongoing Investigation,Local-Watch,
+evt_6b38b777,2025-04-15T18:02:24Z,54.18998739739865,-132.30563573356648,Humanitarian Crisis,2.0,Active,Private-Sensor-Net,"USA,South America,Asia"
+evt_58cceedb,2025-04-01T23:30:38Z,-40.04003775578226,999.0,Natural Disaster,8.0,Mitigated,Local-Watch,
+evt_56f3520e,2025-03-18T16:39:07Z,-64.8698738606429,32.43849042194674,natural disaster,10.0,Active,Gov-Agency-A,"Africa,USA,Global"
+evt_6a6cf009,2025-01-09T02:48:59Z,82.13927342011428,-61.2695197391603,Cyber Attack,7.0,Ongoing Investigation,Private-Sensor-Net,"Africa,Arctic"
+evt_fe2cd495,2025-06-17T09:31:24Z,7.123646950927551,-178.79908574227733,Infrastructure Incident,,Mitigated,Private-Sensor-Net,"South America,Arctic"
+evt_fbf03f61,2025-02-08T22:53:27Z,5.933979328435484,-106.67490640273239,Infrastructure Incident,,Ongoing Investigation,OSINT-Feed,"Global,Africa"
+evt_80964d57,2025-03-06T08:58:07Z,-54.15750498735777,-124.43236889834631,Infrastructure Incident,7.0,Mitigated,Local-Watch,"USA,Africa"
+evt_803f7760,2025-02-09T14:19:02Z,-49.820236266799206,100.11473485368765,Infrastructure Incident,5.0,Ongoing Investigation,Gov-Agency-A,North America
+evt_088b98c9,2025-05-03T15:09:25Z,-45.70484635147118,-79.20142415875816,Cyber Attack,3.0,Ongoing Investigation,OSINT-Feed,"Global,Europe"
+evt_d5bb5ac5,2025-06-26T06:00:03Z,72.83894336324013,140.65809087900396,Infrastructure Incident,7.0,Active,Local-Watch,
+evt_9501dbef,2025-06-10T18:42:12Z,-17.720534140796474,164.56313862215075,Intelligence Leak,1.0,Ongoing Investigation,Private-Sensor-Net,"Middle East,South America,Asia"
+evt_e93b3be9,2025-04-10T16:26:09Z,15.763170797308621,114.85229930831768,Infrastructure Incident,10.0,Resolved,Gov-Agency-A,
+evt_067813cd,2025-07-07T22:26:20Z,15.88835772120379,-46.010219435071605,Infrastructure Incident,5.0,Resolved,Gov-Agency-A,"South America,USA,Middle East"
+evt_adf7485d,2025-03-10T22:58:27Z,79.83300276930106,-101.23206233757647,Natural Disaster,7.0,Mitigated,OSINT-Feed,"USA,Global"
+evt_f31db782,2025-02-28T02:28:03Z,54.089259496702624,-99.08610022146362,Intelligence Leak,6.0,Resolved,Private-Sensor-Net,"Global,Oceania,Middle East"
+evt_288e7ba5,2025-03-11T19:57:03Z,-35.93645970494962,79.0985687118013,Cyber Attack,7.0,Ongoing Investigation,Private-Sensor-Net,South America
+evt_254a58d7,2025-05-30T09:58:07Z,49.805483714014834,30.451138377892608,Cyber Attack,3.0,Active,Local-Watch,"Middle East,North America"
+evt_c617686a,2025-06-01T09:49:21Z,-34.78979301063625,-33.133281080971386,Natural Disaster,6.0,Mitigated,OSINT-Feed,"North America,Asia"
+evt_decf6ebf,2025-04-03T03:00:57Z,48.16271088783151,32.15226341295838,Cyber Attack,1.0,Ongoing Investigation,Local-Watch,"South America,Asia"
+evt_24c7727c,2025-04-24T09:36:26Z,-59.81504290100716,82.607762678715,Humanitarian Crisis,9.0,Resolved,OSINT-Feed,"Asia,Middle East,South America"
+evt_b9580c73,2025-03-30T16:35:06Z,29.61478279554626,-46.30410829735371,Humanitarian Crisis,4.0,Ongoing Investigation,Local-Watch,"Asia,North America"
+evt_86cc6f02,2025-02-24T03:09:29Z,-74.08202212826495,21.203760526857337,Security Anomaly,10.0,Active,Private-Sensor-Net,
+evt_20ec4763,2025-03-16T01:46:47Z,-73.74328581432405,-166.0474663002475,Cyber Attack,6.0,Mitigated,OSINT-Feed,South America
+evt_a0d5d7c9,2025-04-01T16:22:03Z,14.127198074842767,160.7903004046135,natural disaster,10.0,Ongoing Investigation,Private-Sensor-Net,
+evt_95c818f1,2025-02-03T02:55:03Z,13.229869749328358,-174.93598595812563,Security Anomaly,6.0,Active,Private-Sensor-Net,
+evt_ebfaf69b,2025-07-01T01:38:44Z,46.95859394795114,31.39516079340169,Infrastructure Incident,5.0,Ongoing Investigation,Gov-Agency-A,Middle East
+evt_08b4cbb5,2025-05-10T01:26:35Z,-4.603040645836273,119.87899885064343,SECURITY ANOMALY,4.0,Ongoing Investigation,Local-Watch,
+evt_3e45a67e,2025-02-11T00:09:22Z,51.604286755218226,96.09096506065754,Cyber Attack,8.0,Active,OSINT-Feed,"Arctic,Oceania"
+evt_0e0a34e6,2025-02-27T05:20:09Z,50.19404057008268,18.414297899167792,Intelligence Leak,9.0,Ongoing Investigation,Private-Sensor-Net,Europe
+evt_b3cd0c43,2025-03-17T05:07:33Z,64.90487447780106,-150.12366531416455,Humanitarian Crisis,4.0,Resolved,Gov-Agency-A,
+evt_e628f994,2025-01-10T19:14:40Z,-64.60174424566955,-124.10558128525926,Natural Disaster,6.0,Ongoing Investigation,OSINT-Feed,
+evt_1727e043,2025-05-02T15:32:51Z,36.79516909979323,-124.44617180148195,Natural Disaster,3.0,Resolved,Gov-Agency-A,
+evt_d7987c6d,2025-03-22T22:00:48Z,14.558178614757743,112.61610218631623,Security Anomaly,2.0,Mitigated,Private-Sensor-Net,North America
+evt_18a459f0,2025-06-07T09:43:14Z,38.45472045127217,-124.17447680427446,Intelligence Leak,4.0,Resolved,Private-Sensor-Net,USA
+evt_2ca4a74f,2025-04-19T20:16:58Z,13.531518729242677,117.10039859477732,Security Anomaly,1.0,Mitigated,Local-Watch,"North America,Oceania,Europe"
+evt_e516794b,2025-03-24T15:12:49Z,-46.075995560055404,7.996409091325319,Security Anomaly,,Mitigated,OSINT-Feed,
+evt_6310dbef,2025-07-06T22:08:34Z,55.99118975028696,30.023442516451325,Intelligence Leak,7.0,Resolved,Gov-Agency-A,
+evt_b1ac64f0,2025-01-11T17:42:06Z,-37.01314589120371,-50.72460710133291,Cyber Attack,7.0,Mitigated,Local-Watch,"Oceania,Africa,USA"
+evt_f0af3b35,2025-05-20T23:22:17Z,37.10668415763301,-120.91768025462258,Cyber Attack,7.0,Active,Gov-Agency-A,"Africa,North America"
+evt_8b0acc3f,2025-05-11T04:42:46Z,-3.5935162102109786,-11.905324608245508,Humanitarian Crisis,5.0,Active,Gov-Agency-A,
+evt_8a376540,2025-03-31T22:53:48Z,52.164040612562076,76.95076156481696,Security Anomaly,2.0,Active,Local-Watch,South America
+evt_55aa73ee,2025-07-10T02:20:11Z,-74.80602071820859,129.19386570693575,Security Anomaly,5.0,Ongoing Investigation,OSINT-Feed,"Global,Arctic"
+evt_d6f4aa6f,2025-01-21T21:26:05Z,-16.294230934470974,14.676221051024669,Infrastructure Incident,2.0,Active,OSINT-Feed,"Asia,North America"
+evt_49a32843,2025-06-25T13:46:17Z,37.797642341905,-120.25264047666893,Intelligence Leak,8.0,Resolved,OSINT-Feed,"Oceania,South America"
+evt_56534835,2025-07-11T11:58:40Z,27.92211684839654,135.1533789112737,Humanitarian Crisis,10.0,Ongoing Investigation,Gov-Agency-A,
+evt_b6ccd3fd,2025-06-02T12:26:02Z,5.21119209373677,101.04346241624728,Security Anomaly,4.0,Resolved,Private-Sensor-Net,
+evt_73455e64,2025-02-18T07:31:39Z,32.310791777293005,-125.505299571352,Cyber Attack,3.0,Resolved,Gov-Agency-A,
+evt_d80a16c8,2025-03-22T08:20:26Z,74.15298355432137,147.53623068210266,Security Anomaly,7.0,Resolved,Private-Sensor-Net,South America
+evt_b44f6139,2025-05-27T11:03:07Z,55.923024672243315,121.97691983195551,Cyber Attack,6.0,Resolved,Gov-Agency-A,"Oceania,Africa"
+evt_f38219e4,2025-05-21T02:23:28Z,84.02602536456928,-143.29424337128555,Intelligence Leak,6.0,Ongoing Investigation,OSINT-Feed,"Europe,Africa"
+evt_c5514235,2025-03-28T06:35:12Z,15.014282062223334,115.86454018406226,Natural Disaster,5.0,Resolved,Private-Sensor-Net,
+evt_1b710d66,2025-04-24T13:46:33Z,-69.54721340929983,-149.3649571943482,Natural Disaster,3.0,Ongoing Investigation,Gov-Agency-A,"Middle East,Global"
+evt_11f83aca,2025-06-30T05:26:06Z,999.0,-120.3548772021847,Intelligence Leak,7.0,Ongoing Investigation,OSINT-Feed,
+evt_a3b222c6,2025-06-10T00:45:47Z,37.36071030381094,-121.74251112804046,Security Anomaly,2.0,Ongoing Investigation,Local-Watch,"North America,South America"
+evt_551eb300,2025-04-10T21:08:20Z,79.56527942202723,-40.8340131956881,Cyber Attack,9.0,Mitigated,Private-Sensor-Net,
+evt_b38fc181,2025-07-03T16:47:13Z,-11.080551927560336,-93.7780440949758,Natural Disaster,8.0,Ongoing Investigation,OSINT-Feed,"Middle East,USA"
+evt_b4086947,2025-05-19T17:15:59Z,15.263223384703508,19.071313181445788,Cyber Attack,6.0,Ongoing Investigation,Gov-Agency-A,
+evt_462f117b,2025-06-28T06:34:41Z,62.93366713597544,156.508682339024,Humanitarian Crisis,4.0,Resolved,Private-Sensor-Net,South America
+evt_762041a2,2025-04-11T22:09:42Z,25.842216956934266,-126.16012821619981,Natural Disaster,1.0,Active,Private-Sensor-Net,
+evt_019c4e5c,2025-07-01T00:17:40Z,15.794796520591884,115.19649550324006,Cyber Attack,4.0,Active,Private-Sensor-Net,
+evt_ab1583d6,2025-04-21T16:25:22Z,-14.441025185375267,-54.227768775546195,Cyber Attack,9.0,Ongoing Investigation,Gov-Agency-A,
+evt_1cfac074,2025-02-03T12:06:12Z,89.5479838440321,42.796519689842256,Intelligence Leak,6.0,Active,Gov-Agency-A,"South America,Africa"
+evt_190580a6,2025-01-23T15:38:07Z,85.0574626977621,2.610170793202599,Infrastructure Incident,5.0,Mitigated,OSINT-Feed,Asia
+evt_ccafd897,2025-03-05T11:55:28Z,-38.666471091932756,27.884429482219844,Intelligence Leak,10.0,Ongoing Investigation,Gov-Agency-A,Oceania
+evt_1eec7019,2025-03-19T19:43:47Z,-46.51377643298009,33.32060583388335,Security Anomaly,4.0,Resolved,Gov-Agency-A,
+evt_f3cee3de,2025-02-25T22:09:10Z,18.235880166616326,141.1125573101682,Humanitarian Crisis,9.0,Resolved,Private-Sensor-Net,"Asia,Oceania"
+evt_ebeb4649,2025-06-26T18:27:55Z,38.18277786548156,-122.16393626669547,Cyber Attack,10.0,Active,OSINT-Feed,"Europe,Oceania,South America"
+evt_2301b0f9,2025-05-06T20:18:14Z,-0.37786075351925774,-102.7548250044389,Humanitarian Crisis,6.0,Ongoing Investigation,Local-Watch,"Arctic,Global,Africa"
+evt_fec250ea,2025-07-15T09:45:45Z,21.357446464326415,-999.0,Cyber Attack,2.0,Active,Private-Sensor-Net,"Oceania,Europe"
+evt_0421f8f6,2025-03-03T20:47:31Z,-63.3393002504016,-142.76918273307598,Security Anomaly,1.0,Ongoing Investigation,Local-Watch,"Arctic,USA"
+evt_236521de,2025-02-17T22:09:08Z,5.502035045153534,-51.84439254038324,Humanitarian Crisis,,Mitigated,OSINT-Feed,
+evt_035e8ce6,2025-03-10T15:14:19Z,11.641996921925653,124.54580087365383,Intelligence Leak,5.0,Active,Private-Sensor-Net,"Middle East,Arctic,Global"
+evt_6f331e0d,2025-03-27T00:56:26Z,-37.995801597116795,153.12555003952934,Intelligence Leak,5.0,Mitigated,Gov-Agency-A,"Arctic,Africa"
+evt_f2e44abd,2025-07-10T18:26:20Z,38.061751092590754,-62.4352329297938,Natural Disaster,5.0,Resolved,Private-Sensor-Net,"Asia,Middle East"
+evt_94192500,2025-06-22T22:21:07Z,59.89904758063159,-119.60544509898332,Intelligence Leak,5.0,Mitigated,Private-Sensor-Net,
+evt_2716fd47,2025-03-10T01:58:54Z,-21.881418190187674,152.3212659439809,Humanitarian Crisis,5.0,Resolved,Local-Watch,"Global,Europe,Middle East"
+evt_6024d3e6,2025-06-13T08:44:44Z,52.99238169715977,-86.73077709752968,Intelligence Leak,2.0,Active,Private-Sensor-Net,
+evt_c5f368b9,2025-01-08T19:52:15Z,-88.87593273788477,119.9395948270315,Cyber Attack,1.0,Resolved,Local-Watch,Europe
+evt_fd005a59,2025-04-09T23:11:49Z,36.51521286804266,-123.56348956027064,Natural Disaster,1.0,Resolved,Local-Watch,USA
+evt_24db0359,2025-01-29T21:24:25Z,-32.71217497521793,-36.54951459655928,Cyber Attack,8.0,Ongoing Investigation,Private-Sensor-Net,"USA,Asia"
+evt_e2cce4e9,2025-01-03T23:43:05Z,-40.242791213963955,-21.944816722611563,natural disaster,3.0,Active,OSINT-Feed,
+evt_5943e047,2025-06-07T02:18:45Z,86.19542600117086,-40.24136720742487,Infrastructure Incident,5.0,Ongoing Investigation,OSINT-Feed,Africa
+evt_0a2d5e68,2025-03-28T11:00:37Z,-62.11182190021941,115.89481633050684,security anomaly,7.0,Resolved,Gov-Agency-A,"Africa,USA"
+evt_e87daf1c,2025-06-26T20:00:33Z,85.96569113379971,124.21815922607146,intelligence leak,1.0,Ongoing Investigation,OSINT-Feed,"Middle East,Asia"
+evt_408380eb,2025-05-28T15:57:05Z,36.86847076239594,-120.21388870057534,intelligence leak,9.0,Ongoing Investigation,Gov-Agency-A,"Oceania,Asia"
+evt_9ccbd8ff,2025-01-17T11:40:23Z,16.21441360171674,116.30979835573955,SECURITY ANOMALY,5.0,Active,Gov-Agency-A,Arctic
+evt_c66e1ab8,2025-04-19T17:20:37Z,14.739752945432242,115.98516664243586,Security Anomaly,9.0,Ongoing Investigation,OSINT-Feed,"Asia,Oceania"
+evt_22e1bb39,2025-05-23T20:24:05Z,42.873500835216504,-39.77520855384918,Infrastructure Incident,6.0,Active,Local-Watch,
+evt_e39240c2,2025-02-15T14:38:00Z,-11.130313168344927,-21.10833861877984,Natural Disaster,2.0,Mitigated,Local-Watch,
+evt_6fc6b07a,2025-04-22T20:58:00Z,21.56270264213279,-46.71618984179349,Infrastructure Incident,7.0,Mitigated,Private-Sensor-Net,"North America,Arctic,Asia"
+evt_25b08e62,2025-05-27T11:22:45Z,-46.00982170874864,-94.0999268870282,Cyber Attack,8.0,Resolved,Gov-Agency-A,"Asia,Middle East"
+evt_4d62f58b,2025-02-06T01:08:31Z,-20.429596853110837,-105.51161186695988,Humanitarian Crisis,8.0,Ongoing Investigation,Gov-Agency-A,"Global,Africa"
+evt_4a5d0af8,2025-02-25T06:19:18Z,8.660979336581846,139.24211318560236,Natural Disaster,10.0,Active,Gov-Agency-A,North America
+evt_9952b9b3,2025-06-07T13:01:35Z,47.86641395830391,31.978684202966267,Intelligence Leak,3.0,Active,Gov-Agency-A,"South America,Europe"
+evt_191e2b12,2025-06-20T04:24:34Z,62.02731235184544,83.77093072837243,Intelligence Leak,2.0,Ongoing Investigation,Local-Watch,"Asia,Oceania"
+evt_ec5bfe14,2025-04-21T19:34:02Z,31.834900655388083,122.50936484983401,Cyber Attack,7.0,Mitigated,Private-Sensor-Net,"Europe,USA"
+evt_7338523b,2025-01-08T08:49:27Z,-89.32548874522678,73.83063096054963,Intelligence Leak,10.0,Ongoing Investigation,Gov-Agency-A,"Asia,Middle East"
+evt_fa90a272,2025-06-16T22:12:48Z,5.850457666820532,-85.28364264378091,natural disaster,,Mitigated,Gov-Agency-A,"North America,South America"
+evt_9b1f0c5a,2025-04-22T23:43:54Z,47.40379918852616,31.796032148295883,Security Anomaly,6.0,Resolved,Private-Sensor-Net,"South America,Asia"
+evt_8664a29f,2025-06-26T21:00:33Z,-30.25930906487988,73.12995000628717,Natural Disaster,1.0,Mitigated,Local-Watch,Asia
+evt_6a8412a1,2025-04-21T12:47:10Z,-41.47862119681715,39.78970106904728,Infrastructure Incident,5.0,Ongoing Investigation,Gov-Agency-A,
+evt_13d4590a,2025-02-16T21:27:14Z,42.31389449328816,-97.87199224414957,Humanitarian Crisis,9.0,Ongoing Investigation,Private-Sensor-Net,South America
+evt_f246eebc,2025-04-30T22:56:34Z,11.19831298166504,76.61515656433852,Cyber Attack,4.0,Active,Private-Sensor-Net,"Middle East,Europe,Oceania"
+evt_e3d50a64,2025-05-19T22:00:00Z,44.04797760754644,-24.35046293254578,cyber attack,3.0,Active,OSINT-Feed,"North America,Europe,USA"
+evt_40f61d66,2025-03-30T12:09:24Z,48.37472479672582,32.778480587695476,Cyber Attack,7.0,Ongoing Investigation,Local-Watch,"Oceania,South America,Arctic"
+evt_0e5f0229,2025-04-28T04:19:18Z,49.15637961240242,-34.68340916851574,Infrastructure Incident,1.0,Active,Private-Sensor-Net,
+evt_1f81b980,2025-01-13T00:30:18Z,37.89030181798863,-123.88802283044134,Natural Disaster,1.0,Active,Private-Sensor-Net,
+evt_f1b7d337,2025-07-12T14:12:44Z,-52.789413838073735,-60.57353389053145,Humanitarian Crisis,8.0,Active,OSINT-Feed,"Global,Europe,Middle East"
+evt_1f4acde2,2025-01-09T03:46:46Z,14.18246446955156,116.76879804238455,Security Anomaly,7.0,Resolved,OSINT-Feed,Asia
+evt_445cf65b,2025-03-04T11:42:16Z,32.910214038595356,-12.548067903685507,Infrastructure Incident,1.0,Resolved,Private-Sensor-Net,"Europe,Middle East"
