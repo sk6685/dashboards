@@ -46,6 +46,7 @@ filtered = df[
 filtered = cluster_earthquakes(filtered)
 filtered = assign_severity(filtered)
 filtered = detect_anomalies(filtered)
+filtered["cluster_label"] = filtered["cluster"].astype(str).replace({'-1': 'Noise'})
 
 # Show metrics
 col1, col2, col3 = st.columns(3)
@@ -59,13 +60,16 @@ fig = px.scatter_mapbox(
     filtered,
     lat="latitude",
     lon="longitude",
-    color="cluster",
+    color="cluster_label",
     size="magnitude",
+    #animation_frame=filtered["time"].dt.date.astype(str),
+
     hover_name="place",
     hover_data=["magnitude", "depth_km", "severity"],
     zoom=1,
     height=600,
 )
+
 fig.update_layout(mapbox_style="open-street-map", margin={"r":0,"t":0,"l":0,"b":0})
 st.plotly_chart(fig, use_container_width=True)
 

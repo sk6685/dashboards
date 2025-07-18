@@ -56,7 +56,7 @@ filtered_df = df[
 
 st.subheader(f"Filtered {len(filtered_df)} earthquakes")
 
-fig = px.scatter_mapbox(
+fig = px.scatter_map(
     filtered_df,
     lat="latitude",
     lon="longitude",
@@ -65,8 +65,8 @@ fig = px.scatter_mapbox(
     color_continuous_scale="Viridis",
     hover_name="place",
     hover_data={"magnitude": True, "time": True, "depth_km": True},
-    zoom=1,
-    height=700,
+    zoom=3,
+    height=500,
 )
 fig.update_layout(mapbox_style="open-street-map", margin={"r":0,"t":0,"l":0,"b":0})
 
